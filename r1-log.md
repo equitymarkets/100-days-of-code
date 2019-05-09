@@ -163,4 +163,12 @@ Thoughts: It is pretty obvious to me that this could be achieved with far fewer 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/21_MilitaryTapCodes.py]
 
+R1D22
+
+Today's Progress**: Today I dealt with a "'list' object is not callable" error. It triggered because I was trying to use a list name as a function (the function and the array have similar names). I also learned that longer or complex programs should use "return None" values within functions for cleaner code. I learned how to set the Python environment variable in order to manipulate the program with the command prompt, then run pip to initiate and download modules. Finally, I started my first Github pull request. While the three main things I made the program do work as typed with no errors, I want to spend more time with them to see if I can make more use of them. My original idea is to view time to run, time to code, and total memory usage of the program for when I refactor my old word from the first days of this challenge. 
+
+Thoughts: As usual, I learned the most when I was completely mixed up. I could not get the Python environment variable to initiate, despite leading it directly to the correct file path. I tried putting the semicolon in various places and typing different strings that I saw demonstrated on the internet (I had the same problem with Visual C#), but then I finally just went to install Python and chose "Modify" and checked the box to create the environment variable. My code is not doing exactly what I wanted it to do but it's doing what it's supposed to do. (The time.time() function is only measuring down to the tenth of a second, the memory function is returning a hexidecimal value, and the memory usage function I believe is giving information for my system, not the specific program. But it is good to know these tools and it was good to get caught up on the basics of finding modules and using them, because soon I will be doing data visualizations, so I need to be a little more fluent in system processes. I feel good about today's work. In one more week I will be working at my day job a lot more (the kids at the school I work are coming back from their summer break) so I need to be getting the "blocks" out now so that I can flow when I have less time in the evenings. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/22_Measurements.py]
+
 
