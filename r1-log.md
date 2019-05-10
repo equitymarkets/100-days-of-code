@@ -177,6 +177,6 @@ Today's Progress**: Today I learned about the Python array arr.array(''[]), the 
 
 Thoughts: I started out wanting to learn about the tuple, but also learned about the Python array as well. Up until now, I had been referring to lists as arrays, which I believe is correct, but not specific, since there is an actual array module and definition which include C-like type codes. Both the array and the tuple warrant further study, but I am happy with today's progress. As far as Python goes, I do wonder why for a language that seems to be built for simplicity, there are so many seemingly intentional complexities. Yesterday I was left wondering why the psutil module required a .whf extension vs. standard exe. as in the past. I also keep running into standard library methods in Python 2 that have been deprecated for Python 3. I wonder why there are so many differences or why old methods can't just stay possible without having to user-define them. I still am convinced that once I move beyond this "Hello World" stage, I will see why Python is rapidly becoming one of the world's most favored languages. Since I've had my run with a few C-likes languages, as well as html, CSS, PHP, and a little javascript, I will stick with Python for this 100 days of code challenge because I do want to become good at it, but whether or not it becomes my language of choice I do not know yet. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/23_TheTuple.py]
 
 
