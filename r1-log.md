@@ -179,4 +179,9 @@ Thoughts: I started out wanting to learn about the tuple, but also learned about
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/23_TheTuple.py]
 
+R1D24
 
+Today's Progress**: Today I cleaned up some of the old code that I wrote in the first days of the challenge and added to some of the newer code. I learned a lot about making methods from existing programs, and ran into a few new errors along the way, including a seemingly meaningless indention error and a problem with one of the programs which was using the global directive inside a nested function and would no longer work when made into a function itself. I fixed this by making that global variable local and changing the order of the parameters. 
+
+Thoughts: As usual, I learned a lot. I added to my tap code program but now as it is it is in a perpetual loop (I'm fixing it to do sentences.) I learn the most when I have to figure out workarounds, and I did two of those today (as stated above). 
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/24_Refactoring.py]
