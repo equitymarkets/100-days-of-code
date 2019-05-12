@@ -185,3 +185,12 @@ Today's Progress**: Today I cleaned up some of the old code that I wrote in the 
 
 Thoughts: As usual, I learned a lot. I added to my tap code program but now as it is it is in a perpetual loop (I'm fixing it to do sentences.) I learn the most when I have to figure out workarounds, and I did two of those today (as stated above). 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/24_Refactoring.py]
+
+
+### R1D25
+
+Today's Progress**: Today I extracted and imported matplotlib for use in my application. I learned a new useful Python function, quit(), that can be used to get back to the standard command prompt when running Python from the command line. Moreover, I learned a lot about the Matplotlib package for Python, including basic functions used to create a line chart, bar chart, histogram, and scatter plot.  
+
+Thoughts: I really like getting outside the console environment and into statistics and data visualization. I did not run into any major difficulties at all today. While I feel like I hit a major milestone, the fact that I had no problems with this tells me that I need to push myself a bit harder. After having to re-download and modify Python the other day when not being able to start pip from the command line to get psutil, it certainly was welcome to easily type pip install matplotlib and have everything work. I find the Matplotlib module to be very user-friendly and look forward to using it for a while in the next days of my 100 Days of Code challenge. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/25_IntroToDataVisualizations.py]
