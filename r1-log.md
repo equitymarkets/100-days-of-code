@@ -194,3 +194,11 @@ Today's Progress**: Today I extracted and imported matplotlib for use in my appl
 Thoughts: I really like getting outside the console environment and into statistics and data visualization. I did not run into any major difficulties at all today. While I feel like I hit a major milestone, the fact that I had no problems with this tells me that I need to push myself a bit harder. After having to re-download and modify Python the other day when not being able to start pip from the command line to get psutil, it certainly was welcome to easily type pip install matplotlib and have everything work. I find the Matplotlib module to be very user-friendly and look forward to using it for a while in the next days of my 100 Days of Code challenge. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/25_IntroToDataVisualizations.py]
+
+### R1D26
+
+Today's Progress**: Today I continued to work with a line chart in the Matplotlib module. I saw today as an opportunity to learn move about Big O notation, and I wrote functions to generate a y output list using constant, logarithmic, linear, quadratic, and exponential time complexity. While I understand the theory, I will have to see more examples of code to solidify my understanding of what is what. I understand that the binary search is logarithmic, double loops are quadratic, and that most good algorithms fall in the n log n region.
+
+Thoughts: Today I started to see the value of not just writing code, but writing clean and efficient code. While thinking about it, I theorized that most popular websites and applications tend to favor complex but streamlined code on the backend, to affect quick and relevant search results, and simple code on the frontend, so that most of the public can adequately use the product and get a job done, without having to navigate through a pretty but complex user interface. This helps to explain why the Big O Notation is important to understand for anyone striving for a good user experience, where users come to a site for speed and relevancy, not necessarily beauty. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/26_BigONotation.py]
