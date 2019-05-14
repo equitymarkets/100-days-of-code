@@ -202,3 +202,11 @@ Today's Progress**: Today I continued to work with a line chart in the Matplotli
 Thoughts: Today I started to see the value of not just writing code, but writing clean and efficient code. While thinking about it, I theorized that most popular websites and applications tend to favor complex but streamlined code on the backend, to affect quick and relevant search results, and simple code on the frontend, so that most of the public can adequately use the product and get a job done, without having to navigate through a pretty but complex user interface. This helps to explain why the Big O Notation is important to understand for anyone striving for a good user experience, where users come to a site for speed and relevancy, not necessarily beauty. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/26_BigONotation.py]
+
+### R1D27
+
+Today's Progress**: Today I started building a supply and demand chart from Matplotlib. I found and imported cv for photos and was able to put a photo in the background of the graph. I used plt.figure(figsize=()), plt.annotate(), and plt.xkcd(). I also better visualized and implemented a linear relationship between the supply line and the demand line using a -num relationship in a for loop. 
+
+Thoughts: Right now I really just want to clean up this graph. I need to get the resolution right on my graph, since I don't want to stretch the photo. I also need to figure out why when the image is inserted, the y-axis inverts, and figure out how to insert a little dotted line pointing to the intersection. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/27_SupplyandDemandPt1.py]
