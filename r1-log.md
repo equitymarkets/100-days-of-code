@@ -210,3 +210,10 @@ Today's Progress**: Today I started building a supply and demand chart from Matp
 Thoughts: Right now I really just want to clean up this graph. I need to get the resolution right on my graph, since I don't want to stretch the photo. I also need to figure out why when the image is inserted, the y-axis inverts, and figure out how to insert a little dotted line pointing to the intersection. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/27_SupplyandDemandPt1.py]
+
+### R1D28
+
+Today's Progress**: I finished a fairly simplistic supply and demand chart. I learned a lot, including a couple visual enhancements to the chart. I learned to invert the y-axis and used it as a workaround when inserting my image caused the y-axis to flip. I ended up having to go back to my image editor, flip the image, and turn it inside out so that it would fit this image. I also learned how to format a string using the '$' but wasn't able to use it to much effect on this graph. 
+
+Thoughts: As planned, I am just about to go back to full-time days as a schoolteacher, so it looks like I will have gotten a good 30 days in before things get intense. I am happy to have made it this far but I know that things will get much more intense when I add 3-5 hours of teaching onto my morning schedule. I am prepared for the challenge but I know it will be difficult at times. 
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/28_SupplyandDemand.py]
