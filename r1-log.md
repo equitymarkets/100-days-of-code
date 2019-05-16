@@ -217,3 +217,11 @@ Today's Progress**: I finished a fairly simplistic supply and demand chart. I le
 
 Thoughts: As planned, I am just about to go back to full-time days as a schoolteacher, so it looks like I will have gotten a good 30 days in before things get intense. I am happy to have made it this far but I know that things will get much more intense when I add 3-5 hours of teaching onto my morning schedule. I am prepared for the challenge but I know it will be difficult at times. 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/28_SupplyandDemand.py]
+
+### R1D29
+
+Today's Progress**: Today I learned a few more things about basic data visualization in Matplotlib, mainly basic visual enhancements to the histogram and the pie chart. I dealt with a Name Error: 'subplot' is not defined, and I dealt with it by importing pylab into the code. I also learned the pass keyword to leave a class empty in order to work on it later. 
+
+Thoughts: I planned to get around 5 days on matplotlib visualizations then begin to work with the Pandas module. While I have been creating lists on my own, now I want to start importing the data from Excel spreadsheets. Tomorrow I will start on Pandas. Probably by Day 40 or before I plan to work on some of my past stuff and perhaps attach spreadsheets or more. I love this because I learn as I go. I feel I have come a long way in the last 29 days. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/29_OSTypeMarketShare.py]
