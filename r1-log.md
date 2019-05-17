@@ -225,3 +225,11 @@ Today's Progress**: Today I learned a few more things about basic data visualiza
 Thoughts: I planned to get around 5 days on matplotlib visualizations then begin to work with the Pandas module. While I have been creating lists on my own, now I want to start importing the data from Excel spreadsheets. Tomorrow I will start on Pandas. Probably by Day 40 or before I plan to work on some of my past stuff and perhaps attach spreadsheets or more. I love this because I learn as I go. I feel I have come a long way in the last 29 days. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/29_OSTypeMarketShare.py]
+
+### R1D30
+
+Today's Progress**: I was happy to make something more out of the work that I started on Day 4. I learned how to create a csv file as an export. Tomorrow I will work on importing the data. I learned about the concept of dependency with regard to files needed to make a program work. It is often the problem I have when I look at others' code on Github or anywhere else. If I can figure out more about dependencies: what to look for and where to put it together, I will be able to work with others' code better than I have in the past. This is where learning this from the ground up comes into play. I did learn the DataFrame method today and it worked on the first or second try. I plan to spend some time getting to know the Pandas module. 
+
+Thoughts: I am happy to have made it to Day 30. I worked a long time today on a variant of this problem but was not able to make it work. I certainly have my to-do list ahead. I figured out how to make a dictionary out of a loop but have not been able to pass it to output via the Matplotlib and Pandas. I also need to figure out more about the 'Value Error: If using scalar values you must pass an index' error. I also need to look back to prior days and see all of the things that I have had problems with and figure them out now before I start to move along. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/30_Pandas.py]
