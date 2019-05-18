@@ -233,3 +233,11 @@ Today's Progress**: I was happy to make something more out of the work that I st
 Thoughts: I am happy to have made it to Day 30. I worked a long time today on a variant of this problem but was not able to make it work. I certainly have my to-do list ahead. I figured out how to make a dictionary out of a loop but have not been able to pass it to output via the Matplotlib and Pandas. I also need to figure out more about the 'Value Error: If using scalar values you must pass an index' error. I also need to look back to prior days and see all of the things that I have had problems with and figure them out now before I start to move along. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/30_Pandas.py]
+
+### R1D31
+
+Today's Progress**: I worked with Jupyter notebook again but could not get it to do basic things like importing data. I will return to it tomorrow. Earlier today I did familiarize myself with the PEP 8 Style Guide for Python. I will put these principles into practice as I learn and create with Python. I did learn the .head(), .tail(), and .loc[''] functions. I also learned importing with .read.csv(''). 
+
+Thoughts: I didn't get done as much as I would of liked. I spent a long time messing with Jupyter Notebook but I was not able to get it to do what I wanted. I will learn it. I may have to configure something-I am not sure. I did learn a little about JSON and plenty of new Python methods (see above). 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/31_PokemonSpreadsheet.py
