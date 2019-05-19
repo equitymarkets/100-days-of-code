@@ -240,4 +240,12 @@ Today's Progress**: I worked with Jupyter notebook again but could not get it to
 
 Thoughts: I didn't get done as much as I would of liked. I spent a long time messing with Jupyter Notebook but I was not able to get it to do what I wanted. I will learn it. I may have to configure something-I am not sure. I did learn a little about JSON and plenty of new Python methods (see above). 
 
-Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/31_PokemonSpreadsheet.py
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/31_PokemonSpreadsheet.py]
+
+### R1D31
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
