@@ -242,10 +242,10 @@ Thoughts: I didn't get done as much as I would of liked. I spent a long time mes
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/31_PokemonSpreadsheet.py]
 
-### R1D31
+### R1D32
 
-Today's Progress**: 
+Today's Progress**: Today I looked back at a few of the things that I have intended to catch-up on. I solidified my understanding of definite vs. indefinite iteration. In a definite iteration, the terminal value of an iterator is known and the program repeats until that number is reached. An example of this is a for loop. A for loop specifies the amount of times the program will iterate. In an indefinite iteration, the program repeats until a value is true. An example of this is a while loop. The function does not know how long it will have to iterate, it only knows when it has reached the value, which is when it stops. I also finally learned how to navigate the Jupyter notebook. It seems I was saving as .py right in the beginning. By leaving the file open and letting the Notebook auto-save, I was able to see the .ipynb extension. I learned a few new methods and tools in Python, including .info() to get metadata about the dataframe, .shape to see the size of it in cells, .drop_duplicates() to get rid of duplicate values, and iloc[:] which warrants further understanding.  
 
-Thoughts:  
+Thoughts: I am glad that after three days I finally got Jupyter Notebook working. I stayed on it because I knew the problem was something small. I do not know if I will continue using it for the duration of 100 Days of Code but I may stick with it during my work in Pandas. At this point I want to get a working understanding of the Pandas module so I may be working with it for a while until I can do basic visualizations with it. Tomorrow I plan to continue my work from today on the coffee shop sales model. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/32_PandasMatplotlibCoffeeShop.py]
