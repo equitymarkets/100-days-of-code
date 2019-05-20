@@ -249,3 +249,11 @@ Today's Progress**: Today I looked back at a few of the things that I have inten
 Thoughts: I am glad that after three days I finally got Jupyter Notebook working. I stayed on it because I knew the problem was something small. I do not know if I will continue using it for the duration of 100 Days of Code but I may stick with it during my work in Pandas. At this point I want to get a working understanding of the Pandas module so I may be working with it for a while until I can do basic visualizations with it. Tomorrow I plan to continue my work from today on the coffee shop sales model. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/32_PandasMatplotlibCoffeeShop.py]
+
+### R1D33
+
+Today's Progress**: Today I learned about calling the data from the spreadsheet by filename.columnnumber. One of the methods that I learned was the type(filename.columnnumber) to find out about the csv data. I also learned to plot a chart using that protocol. I learned about the hlines() function and all of its parameters. It is useful for showing a breakeven point, or, in the case of this graph, closing time when our profits do not exceed a reasonable value. 
+
+Thoughts: The kids at my school come back tomorrow and I am supposed to be working three shifts so that will still give me time to continue this challenge, but I might not have as much time as before. I wanted to get about 30 days in before full-time hours start again and I was able to do that. I really have a good basic understanding of Python and a few of its modules now. Now I will be able to focus, albeit with a little less time on my hands. I've come a long way in a month-learning all about the shell, IDLE, Geany, and Jupyter, learning about while loops, for loops, and if statements, doing sorts and searches, and learning a little about Matplotlib, Pandas, and Numpy. If the next month is half as productive as the last, I will be happy, but I think it will be more. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/33_PythonCoffeeShop.py]
