@@ -257,3 +257,10 @@ Today's Progress**: Today I learned about calling the data from the spreadsheet 
 Thoughts: The kids at my school come back tomorrow and I am supposed to be working three shifts so that will still give me time to continue this challenge, but I might not have as much time as before. I wanted to get about 30 days in before full-time hours start again and I was able to do that. I really have a good basic understanding of Python and a few of its modules now. Now I will be able to focus, albeit with a little less time on my hands. I've come a long way in a month-learning all about the shell, IDLE, Geany, and Jupyter, learning about while loops, for loops, and if statements, doing sorts and searches, and learning a little about Matplotlib, Pandas, and Numpy. If the next month is half as productive as the last, I will be happy, but I think it will be more. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/33_PythonCoffeeShop.py]
+
+### R1D34
+Today's Progress**: I learned about the show_versions() method, as well as some lingo-the octet is 8 bits, or a byte; and a nibble is 4 bits and takes up one hex digit. I learned about memory addresses, which use hexadecimal notation so that they are easier to convert to binary from human eyes (than base 10), but not as long or difficult to figure out as binary. 
+
+Thoughts: Today I got caught up on this. It's new, as I haven't actually done a chart directly from Pandas nor with the dictionay indexing so I figure it will take a while to figure out. I am sure tomorrow it will make perfect sense. 
+
+Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/34_PandasChart_ASEAN.py]
