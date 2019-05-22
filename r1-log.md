@@ -264,3 +264,11 @@ Today's Progress**: I learned about the show_versions() method, as well as some 
 Thoughts: Today I got caught up on this. It's new, as I haven't actually done a chart directly from Pandas nor with the dictionay indexing so I figure it will take a while to figure out. I am sure tomorrow it will make perfect sense. 
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/34_PandasChart_ASEAN.py]
+
+### R1D35
+
+Today's Progress**: While I didn't create the chart purely with a dictionary, which is what I originally wanted, I did get exactly what I wanted by typing the data into a spreadsheet and using read_csv. Today I learned to better use iloc[] to grab a whole column of data for use in plots. I learned how to use the Numpy arange() method, using bottom=last to stack bars, and plt.xticks() to specify the name for each value. 
+
+Thoughts: Learning to quickly change gears and work around a problem is a valuable skillset. Since I am not on a clock I try to work through things as much as I can and then learn the workarounds later. Today, however, I really could not seem to get this plot to work using the dictionary. I know now, based on the last 35 days, that working with dictionaries is a weakness. In the future I will need to incorporate dictionaries into my work so that I will get stronger in using them. 
+
+Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/35_PandasASEANpt2.py]
