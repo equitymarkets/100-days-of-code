@@ -275,8 +275,8 @@ Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymar
 
 ### R1D36
 
-Today's Progress**:
+Today's Progress**: I learned how to make a sine wave using the np.sin() method. I learned how to make gridlines on a graph. I also learned how to make a horizontal axis line using axhline(). Finally, I encountered the ValueError: x and y must have same first dimension... and to remedy it I first just tried switching around values to make it at least run. I did get it running, but it makes no sense. Tomorrow and maybe the next day I will spend making something good out of it. 
 
-Thoughts: 
+Thoughts: I didn't get as much done as I would have liked but I believe that this will be an awesome visualization once I get it to make sense. Although it is only an idea really now, I learned a few things today. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/36_RedShiftpt1.py]
