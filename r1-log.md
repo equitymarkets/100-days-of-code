@@ -272,3 +272,11 @@ Today's Progress**: While I didn't create the chart purely with a dictionary, wh
 Thoughts: Learning to quickly change gears and work around a problem is a valuable skillset. Since I am not on a clock I try to work through things as much as I can and then learn the workarounds later. Today, however, I really could not seem to get this plot to work using the dictionary. I know now, based on the last 35 days, that working with dictionaries is a weakness. In the future I will need to incorporate dictionaries into my work so that I will get stronger in using them. 
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/35_PandasASEANpt2.py]
+
+### R1D36
+
+Today's Progress**:
+
+Thoughts: 
+
+Link to work:** []
