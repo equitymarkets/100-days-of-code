@@ -280,3 +280,11 @@ Today's Progress**: I learned how to make a sine wave using the np.sin() method.
 Thoughts: I didn't get as much done as I would have liked but I believe that this will be an awesome visualization once I get it to make sense. Although it is only an idea really now, I learned a few things today. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/36_RedShiftpt1.py]
+
+### R1D37
+
+Today's Progress**: The main thing I learned today was a workaround. I didn't plan for the red shift / blue shift graph to be complex, I just wanted to make something that was correct, after yesterday's silly graph that didn't say anything really. When I set the wave on this graph using the sin() function I found that it would always be the same (I could be wrong about that but I think sine should always come out the same, shouldn't it?) so I had to work from another angle. I turned up the x-axis values from 10 to 20 and ended up with what I wanted. The problem was that it said 20 at the bottom which meant that red shift and blue shift were at the same frequency: not true. I used plt.axis('off') to turn off the x axis because I didn't need it to illustrate this concept. I think the plots look much better than yesterday's. 
+
+Thoughts: I realize this isn't anything complex but before moving on (as my focus here is an overview of the entire Python language, not just data visualization) I wanted to just map a simple idea out using a chart, but not data intensive. I like this red shift / blue shift chart and my only regret is that it appears that my video might not want to play on browsers operating on a moderately slow speed internet. My video quality needs to improve. I also don't feel like I covered a lot of information today but I did learn the one function and learned some vocabulary about graphics. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/37_DopplerPt2.py]
