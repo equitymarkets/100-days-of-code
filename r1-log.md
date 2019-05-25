@@ -288,3 +288,11 @@ Today's Progress**: The main thing I learned today was a workaround. I didn't pl
 Thoughts: I realize this isn't anything complex but before moving on (as my focus here is an overview of the entire Python language, not just data visualization) I wanted to just map a simple idea out using a chart, but not data intensive. I like this red shift / blue shift chart and my only regret is that it appears that my video might not want to play on browsers operating on a moderately slow speed internet. My video quality needs to improve. I also don't feel like I covered a lot of information today but I did learn the one function and learned some vocabulary about graphics. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/37_DopplerPt2.py]
+
+### R1D38
+
+Today's Progress**: Today I familiarized myself with kaggle.com for dataset practice and projects. I found a really annoying error that happens for really no reason at all-the unindent does not match error and to cure it I simply had to repaste the entire function-this cleared it up immediately. I used the .describe() stat function to describe the set I am reading from, but did not get everything I hoped for in that set. 
+
+Thoughts: I dont feel like I got much done today, but I tackled a pesky error message, learned about a place to get practice data, and learned a new function. Tomorrow I hope to run this data at least through the bubble sort and the merge sort; maybe all five. 
+
+Link to work**:   [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/38_DataProcessPt1]
