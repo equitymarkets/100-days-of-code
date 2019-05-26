@@ -296,3 +296,10 @@ Today's Progress**: Today I familiarized myself with kaggle.com for dataset prac
 Thoughts: I dont feel like I got much done today, but I tackled a pesky error message, learned about a place to get practice data, and learned a new function. Tomorrow I hope to run this data at least through the bubble sort and the merge sort; maybe all five. 
 
 Link to work**:   [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/38_DataProcessPt1]
+
+### R1D39
+
+Today's Progress**: I didn't make much progress towards a workable program but I worked through a couple snags, learned what would work and what wouldn't, and still ended up not much closer to what I want here. I did learn some housekeeping, such as how  to display file extensions by default on Windows (or Mac). I learned the Python os.getcwd() function for the current directory and os.listdir() for everything in your working directory, in my case a folder by the name python_work. I learned that a CSV has no data type and that is (I think) why I cannot churn the data into a sort function. I learned the word "delimiter" which means any character or group of characters to specify a boundary between separate regions in a datastream, such as "#" for comments. 
+
+Thoughts: I still feel unproductive but all-in-all I did have a productive day at work-even found out that one of my private students got the highest-in-class mark on her test. By the time I got home I was pretty tired and this program still isn't doing what I want but, as usual, by the time I put it away I have learned way more than when things go smooth. When things are rocky, I tend to learn more about why this is, whereas when things are going smooth there is little to be done. I love the challenge. Tomorrow I want to get this working, however. 
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/39_DataProcessPt2.py]
