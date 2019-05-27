@@ -305,6 +305,9 @@ Thoughts: I still feel unproductive but all-in-all I did have a productive day a
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/39_DataProcessPt2.py]
 
 ### R1D40
-Today's Progress**:
-Thoughts:  
-Link to work**: []
+
+Today's Progress**: Today I learned about the sort_values() function and a few of it's parameters. I planned to get a Pandas overview during the last few days and I feel I have done this. Today I imported a CSV, manipulated the data, and sent the CSV back out four different ways. I learned about the "Permission Error: [Errno 13] Permission Denied:..." Error, which happens when a file already exists. I also learned the term "in-place sorting," which refers to a sort that simply exchanges values within the list and does not use any additional space for sorting, such as with secondary or tertiary arrays. 
+
+Thoughts: I had to put my idea of running the data through my five sorts on an indefinite hold until I know more about Python processes. I would like to pursue the idea, and perhaps when I come back to refactor all of the code in a week or so I will consider looking over the sort functions again. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/40_DataProcessPt3.py]
