@@ -303,3 +303,8 @@ Today's Progress**: I didn't make much progress towards a workable program but I
 
 Thoughts: I still feel unproductive but all-in-all I did have a productive day at work-even found out that one of my private students got the highest-in-class mark on her test. By the time I got home I was pretty tired and this program still isn't doing what I want but, as usual, by the time I put it away I have learned way more than when things go smooth. When things are rocky, I tend to learn more about why this is, whereas when things are going smooth there is little to be done. I love the challenge. Tomorrow I want to get this working, however. 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/39_DataProcessPt2.py]
+
+### R1D40
+Today's Progress**:
+Thoughts:  
+Link to work**: []
