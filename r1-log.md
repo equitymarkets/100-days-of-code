@@ -311,3 +311,10 @@ Today's Progress**: Today I learned about the sort_values() function and a few o
 Thoughts: I had to put my idea of running the data through my five sorts on an indefinite hold until I know more about Python processes. I would like to pursue the idea, and perhaps when I come back to refactor all of the code in a week or so I will consider looking over the sort functions again. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/40_DataProcessPt3.py]
+
+### R1D41
+Today's Progress**: Today I installed Seaborn using the pip install command line function. I explored several functions to set the style of the plot (sns.set_style()) and to set the type of plot (sns.scatterplot(), etc.). While I knew that Seaborn is built on top of MatplotLib, it didn't dawn on me that I would have to use plt.show() to display the Seaborn visualization. 
+
+Thoughts: I am getting back into the rhythm of this challenge. I just finished my first week of classes of teaching at my school and my body is getting back on schedule. I want to take a good dive into Seaborn for the next five days. I really like the capability of this library. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/41_SeabornIntro.py]
