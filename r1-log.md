@@ -318,3 +318,10 @@ Today's Progress**: Today I installed Seaborn using the pip install command line
 Thoughts: I am getting back into the rhythm of this challenge. I just finished my first week of classes of teaching at my school and my body is getting back on schedule. I want to take a good dive into Seaborn for the next five days. I really like the capability of this library. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/41_SeabornIntro.py]
+
+### R1D42
+
+Today's Progress**: Today I combed over some Seaborn built-in datasets. I also looked around in the Python site-packages folder and found where all of the modules are contained. I had been wondering where all of the includes are coming from so now I understand this a little bit better. I learned about unit-testing, the heatmap as a 3-dimensional plot, and about the Index contains duplicate entries error, although I still have not remedied what is causing it. I have work ahead for tomorrow. 
+Thoughts: As always, I learned a lot when I was up against a brick wall. I am still up against the brick wall, but I want to think about this as I sleep. Often, I can do better if I return to something in the morning. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/42_SeabornHeatmapPt1]
