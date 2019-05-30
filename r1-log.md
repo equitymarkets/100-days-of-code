@@ -325,3 +325,11 @@ Today's Progress**: Today I combed over some Seaborn built-in datasets. I also l
 Thoughts: As always, I learned a lot when I was up against a brick wall. I am still up against the brick wall, but I want to think about this as I sleep. Often, I can do better if I return to something in the morning. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/42_SeabornHeatmapPt1]
+
+R1D43
+
+Today's Progress**: I got the heatmap to work today. In the end, the problem was just the order that I was placing the arguments into the .pivot() function. By reading the standard 'Anscombe' dataset in the order ('dataset', 'y', 'x') I was able to get a logical heatmap plotted. 
+
+Thoughts: I think it is good that Seaborn plots do not just accept bad parameters and plot what would really equate to nonsense. As a learner who is not on any hard deadline, it is tempting to get frustrated when something doesn't work but I know in the future the checks and balances that are built-in will be very beneficial to my work. 
+
+Link to work**: []
