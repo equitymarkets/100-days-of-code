@@ -328,8 +328,8 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equityma
 
 R1D43
 
-Today's Progress**: I got the heatmap to work today. In the end, the problem was just the order that I was placing the arguments into the .pivot() function. By reading the standard 'Anscombe' dataset in the order ('dataset', 'y', 'x') I was able to get a logical heatmap plotted. 
+Today's Progress**: I got the heatmap to work today. In the end, the problem was just the order that I was placing the arguments into the .pivot() function. By reading the standard 'Anscombe' dataset in the order ('dataset', 'y', 'x') I was able to get a logical heatmap plotted. The other error that I overcame was after I attempted to plot a clustermap. Originally (since my objective is to learn Python code and get acquainted with a number of topics-zooming in later) I tried to plot the clustermap to try it out without really seeing or knowing what a clustermap actually was-I was trying to put a string value into the map, which is not accepted. Eventually I just popped the string value out and the clustermap worked fine. 
 
-Thoughts: I think it is good that Seaborn plots do not just accept bad parameters and plot what would really equate to nonsense. As a learner who is not on any hard deadline, it is tempting to get frustrated when something doesn't work but I know in the future the checks and balances that are built-in will be very beneficial to my work. 
+Thoughts: I think it is good that Seaborn plots do not just accept bad parameters and plot what would really equate to nonsense. As a learner who is not on any hard deadline, it is tempting to get frustrated when something doesn't work but I know in the future the checks and balances that are built-in will be very beneficial to my work. I want to spend a few more of my 100 Days learning more about Seaborn basics and return to this library in the near future. At or around Day 50 I want to get acquainted with Django for some real world projects that I would like to finish, or firmly move towards a finish, by the end of the 100 Days. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/43_SeabornHeatmap.py]
