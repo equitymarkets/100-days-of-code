@@ -5,9 +5,9 @@ The log of my #100DaysOfCode challenge. Started on [April 18, 2019].
 ## Log
 
 ### R1D1 
-Today's Progress**: Learned how to make a simple informational console application informing the user about some characteristics of Python. 
+Today's Progress**: I learned how to make a simple informational console application informing the user about some characteristics of Python. As I move through the 100 Days of Code challenge, I plan to refactor all or most of my code every 20-30 days. That way, I can: 1. revisit topics that I might not be clear on, and 2. use what I have learned to improve upon the code. 
 
-Thoughts: Digging a little deeper into Python helps me to understand why it is the world's favored language. Today I learned about the {} .format() method for injecting variables into a string, several ways to use the input() function, using ctrl+e to comment out sections in Geany, and using an if statement with the colon which is a little different than C but still very intuitive. I really think that Python could become my language of choice if I keep diving in. 
+Thoughts: Digging a little deeper into Python helps me to understand why it is the one of the world's most favored languages. Today I learned about the {} .format() method for injecting variables into a string, several ways to use the input() function, using ctrl+e to comment out sections in Geany, and using an if statement with the colon which is a little different than C but still very intuitive. I really think that Python could become my language of choice if I keep diving in. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/1_Characteristics]
 
@@ -326,10 +326,18 @@ Thoughts: As always, I learned a lot when I was up against a brick wall. I am st
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/42_SeabornHeatmapPt1]
 
-R1D43
+### R1D43
 
 Today's Progress**: I got the heatmap to work today. In the end, the problem was just the order that I was placing the arguments into the .pivot() function. By reading the standard 'Anscombe' dataset in the order ('dataset', 'y', 'x') I was able to get a logical heatmap plotted. The other error that I overcame was after I attempted to plot a clustermap. Originally (since my objective is to learn Python code and get acquainted with a number of topics-zooming in later) I tried to plot the clustermap to try it out without really seeing or knowing what a clustermap actually was-I was trying to put a string value into the map, which is not accepted. Eventually I just popped the string value out and the clustermap worked fine. 
 
 Thoughts: I think it is good that Seaborn plots do not just accept bad parameters and plot what would really equate to nonsense. As a learner who is not on any hard deadline, it is tempting to get frustrated when something doesn't work but I know in the future the checks and balances that are built-in will be very beneficial to my work. I want to spend a few more of my 100 Days learning more about Seaborn basics and return to this library in the near future. At or around Day 50 I want to get acquainted with Django for some real world projects that I would like to finish, or firmly move towards a finish, by the end of the 100 Days. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/43_SeabornHeatmap.py]
+
+###R1D44
+
+Today's Progress**: Today I moved on learning the Seaborn library with the jointplot.  
+
+Thoughts: While I don't know if data visualization will be my main focus of Python in the future, it is important to know, and I will be glad to have spent 20+ days on the subject material. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/44_SeabornJointPlot.py]
