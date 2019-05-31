@@ -92,7 +92,7 @@ Thoughts**: I worked all day and night trying to figure out how to get the code 
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/12_QuickSort2.py]
 
-##R1D13
+### R1D13
 
 Today's Progress**: I learned a valuable script for creating random numbers with x = random.sample(range(a,b),y). I learned the meaning of partitioning, which, in this context, means to split a list into parts based on some criteria, such as a pivot value. I learned a drawback when coding recursive algorithms, such as the Quick Sort, which is that if there are indexing conflicts it can cause a stack overflow. I polished my skills in boolean user-defined preferences by asking the user if he/she would like to assign random variables or use a predefined set. So, my array was already defined, but if the user wants, he/she could change it. I also learned a convenient way to create multiple arrays in one line, with the script a,b,c = [][][]. 
 
@@ -100,7 +100,7 @@ Thoughts**: I feel good that I finally finished the Quick Sort. I learned that t
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/13_QuickSortPart3.py]
 
-#R1D14
+### R1D14
 
 Today's Progress**: I used some new testing methods today, considering the algorithm I was working on involved iterations. I learned the theory of it, but want to explore the various ways that (it seems) one can compute it. It appears that the algorithm can be computed by selecting max values or min values, and can also involve splitting the data into two arrays, or simple popping and appending the existing array.  
 
@@ -115,7 +115,7 @@ Thoughts: Learning about something first before attempting to code it has major 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/15_HeapSort.py]
 
-R1D16
+### R1D16
 
 Today's Progress**: Today I learned the uses of the floor() function (to remove the decimal portion of a number and convert it to the lower integer. It has its uses in the binomial tree when we are trying to index the parent node of the child, where the left side (2i) and the right side (2i+1) have the same parent. I also improved on translating pseudocode or code from other languages like C++ or C# into operable Python structures. I encountered the recursion error and found a way supposedly to cure it using the sys module but I didn't find it much value for my actual need so I deleted it-my error was still there and there wasn't much this fix would improve. I know it's there when or if I need it again but I didn't see a need to explore it any further. I learned the famous heapify() method and I wonder why that is not in the standard Python library since it seems to common and standard for this sorting method. 
 
@@ -123,7 +123,7 @@ Thoughts: As I stated on twitter several days ago, one of the things I have noti
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/16_HeapSort.py]
 
-R1D17
+### R1D17
 
 Today's Progress**: Today I simply made a console application to compute binary and hexadecimal numbers. I used the standard python functions of bin() and hex(), then wrote custom functions to computer the numbers as we would manually on paper. I also practiced doing min() and max() functions on a set of numbers
 
@@ -131,7 +131,7 @@ Thoughts: Today I had to teach in two different parts of town and in the morning
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/17_BinaryandHex.py]
 
-R1D18
+### R1D18
 
 Today's Progress**: today I started on writing my own binary search function after practicing some other coding that I thought might be useful towards today's work but turned out not to be. I did learn about simplifying code using the list comprehensions, the sum() function to add up all elements of a string, the list() function to wrap a range into string format, and about avoiding an obscure error dealing with a name of one of my other files in my working directory (numbers.py). So I learned a lot. 
 
@@ -139,7 +139,7 @@ Thoughts: I didn't finish what I wanted to however. I really felt like I was pre
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/18_BinarySearch.py]
 
-R1D19
+### R1D19
 
 Today's Progress**: Today I redid most of my binary search program and got it working. I learned a lesson about naming variables exactly. Somehow, variables that are not named exactly just don't seem to fall in place, even though you think you know what they are meant to represent. I learned about returning a non-familiar object when a failure or error is encountered, such as -1 for a method that should under normal circumstances, return a zero or positive integer. I learned about the NoneType error, and that when I see it, it must mean that what I am looking for is not being returned correctly. 
 
@@ -147,7 +147,7 @@ Thoughts: I didn't think my binary search idea would take too long, with some id
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/19_BinarySearchPart2.py]
 
-R1D20
+### R1D20
 
 Today's Progress**: Today I learned to work with a list within a list, learned all about recursive functions in Python, including base case and recursive case using if/else and calling global variables within a function, dealing with dictionaries vs. lists, and even a little about business planning in Python (at a simplified and theoretical level).
 
@@ -155,7 +155,7 @@ Thoughts: I started off wanting to learn more about recursive functions. I was s
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/20_ClosingTime.py]
 
-R1D21
+### R1D21
 
 Today's Progress**: I learned today how to better utilize multiple operations and functions within a method. I also learned to import and execute sound files to the application (.wav), using the correct format and file structure. This console application actually creates tap codes from input. In the future, I will fix it to do sentences. 
 
@@ -163,7 +163,7 @@ Thoughts: It is pretty obvious to me that this could be achieved with far fewer 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/21_MilitaryTapCodes.py]
 
-R1D22
+### R1D22
 
 Today's Progress**: Today I dealt with a "'list' object is not callable" error. It triggered because I was trying to use a list name as a function (the function and the array have similar names). I also learned that longer or complex programs should use "return None" values within functions for cleaner code. I learned how to set the Python environment variable in order to manipulate the program with the command prompt, then run pip to initiate and download modules. Finally, I started my first Github pull request. While the three main things I made the program do work as typed with no errors, I want to spend more time with them to see if I can make more use of them. My original idea is to view time to run, time to code, and total memory usage of the program for when I refactor my old word from the first days of this challenge. 
 
@@ -171,7 +171,7 @@ Thoughts: As usual, I learned the most when I was completely mixed up. I could n
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/22_Measurements.py]
 
-R1D23
+### R1D23
 
 Today's Progress**: Today I learned about the Python array arr.array(''[]), the list [], the dictionary, or associative array {}, and the tuple (). I have been using lists and dictionaries fairly extensively for the first 20 days of this challenge, and have referred to both of them as arrays, but today I learned about what is known as the Python array. I designed a simple miles per hour to kilometers per hour program that first defines two lists, then turns them to tuples, then manipulates the tuples. It is not anything spectacular, but it is another first because it is the first time specifically working with a tuple, at least working with what I knew was a tuple. I learned about the immutable nature of tuples, that this can be considered both an advantage and a disadvantage, and the possible use-cases for tuples, one of which includes graphing environments. I did know that tuples are used often in QuantConnect discussions and in trading environments in general, but up to this point didn't know why. Now I feel that I am closer to understanding that. Since data-science is my objective on this challenge, I feel that I might be using the tuple more often in the future. 
 
@@ -179,7 +179,7 @@ Thoughts: I started out wanting to learn about the tuple, but also learned about
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/23_TheTuple.py]
 
-R1D24
+### R1D24
 
 Today's Progress**: Today I cleaned up some of the old code that I wrote in the first days of the challenge and added to some of the newer code. I learned a lot about making methods from existing programs, and ran into a few new errors along the way, including a seemingly meaningless indention error and a problem with one of the programs which was using the global directive inside a nested function and would no longer work when made into a function itself. I fixed this by making that global variable local and changing the order of the parameters. 
 
@@ -336,8 +336,8 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equityma
 
 ###R1D44
 
-Today's Progress**: Today I moved on learning the Seaborn library with the jointplot.  
+Today's Progress**: Today I moved on learning the Seaborn library with the jointplot. I looked at an available example using variables defined within the actual program but I decided to work further with the 'flights' example dataset, because now I am really starting to grasp how to manipulate this data-a couple days ago I had no idea. I learned about bivariate data, some numpy functions, and the sns.jointplot() with many of the different alternatives (seems that there are many). 
 
-Thoughts: While I don't know if data visualization will be my main focus of Python in the future, it is important to know, and I will be glad to have spent 20+ days on the subject material. 
+Thoughts: While I don't know if data visualization will be my main focus of Python in the future, it is important to know, and I will be glad to have spent 20+ days on the subject material. As for today, I am putting a star beside the jointplot in my notes because it is something that I definitely want to explore further. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/44_SeabornJointPlot.py]
