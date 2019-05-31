@@ -334,7 +334,7 @@ Thoughts: I think it is good that Seaborn plots do not just accept bad parameter
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/43_SeabornHeatmap.py]
 
-###R1D44
+### R1D44
 
 Today's Progress**: Today I moved on learning the Seaborn library with the jointplot. I looked at an available example using variables defined within the actual program but I decided to work further with the 'flights' example dataset, because now I am really starting to grasp how to manipulate this data-a couple days ago I had no idea. I learned about bivariate data, some numpy functions, and the sns.jointplot() with many of the different alternatives (seems that there are many). 
 
