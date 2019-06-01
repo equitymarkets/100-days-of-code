@@ -341,3 +341,7 @@ Today's Progress**: Today I moved on learning the Seaborn library with the joint
 Thoughts: While I don't know if data visualization will be my main focus of Python in the future, it is important to know, and I will be glad to have spent 20+ days on the subject material. As for today, I am putting a star beside the jointplot in my notes because it is something that I definitely want to explore further. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/44_SeabornJointPlot.py]
+
+### R1D45
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/45_SeabornDistplotBoxplot]
