@@ -343,5 +343,7 @@ Thoughts: While I don't know if data visualization will be my main focus of Pyth
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/44_SeabornJointPlot.py]
 
 ### R1D45
+Today's Progress**: Today I learned the definition of Gaussian distribution: simple really, just a Normal distribution. I did this while I was learning the distplot() function and its application. It is funny how you hear things and never really solidify  what is being said unless you look it up or am working with it. I also learned the boxplot() function. I couldn't get this working the other night but now I have built the knowledge and confidence to work with, I believe, and of the Seaborn plots. 
 
+Thoughts: While I understand how to use most or all of the Seaborn plots now (the coding part) I do not know what all of these terms mean. I want to further my skillsets in data science so that is on the agenda. Luckily, I did study basic statistics, so when I look these up the definitions and interpretation come fairly easy to me. I will work with Seaborn for 2-4 more days (2 more mini-projects) then I spend a session refactoring, commenting, and simplifying all of the code from my Matplotlib, Pandas, Numpy, and Seaborn work (Days 25-present). 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/45_SeabornDistplotBoxplot]
