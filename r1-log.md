@@ -351,8 +351,8 @@ Thoughts: While I understand how to use most or all of the Seaborn plots now (th
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/45_SeabornDistplotBoxplot]
 
 ## R1D46
-Today's Progress**: 
+Today's Progress**: Today I worked with lists a bit in some console applications then went back to Seaborn to create a Swarmplot. The Swarmplot, also known as the Beeswarm, does not work too well with big data, mainly because point cannot overlap and are simply stacked on top of each other. Data might not be accurate if there are too many elements. I also learned some information towards my project. On or before Day 50 I plan to learn Django and start doing some web development, using some existing websites and ideas that I have developed in the past and adding a good backend engine so that they are ready to go live soon. I learned why website databases use functions like .lower(), .upper(), and .title() for storage of both usernames and passwords, e.g. data can be sanitized by giving a username a .lower() value than outputing it as .title(). I learned the keywords "in" and "not" and their boolean usage. 
 
-Thoughts: 
+Thoughts: I am enjoying my dive into Seaborn, alongside further study in Matplotlib, Numpy, and Pandas. While some of my knowledge is indeed memorization as opposed to actual deep understanding, I know that the deep understanding will come as I immerse myself in the Python language. On Day 46, I can say that I am pleased with my progress. Things are certainly starting to make sense now. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/46_SeabornSwarmplot.py]
