@@ -358,8 +358,8 @@ Thoughts: I am enjoying my dive into Seaborn, alongside further study in Matplot
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/46_SeabornSwarmplot.py]
 
 ## R1D47
-Today's Progress**:  
+Today's Progress**: Today I went through all of the basic plots and maps, coding most of them. I really wanted to further my knowledge of Seaborn before I move on (I do plan to return to and/or use this library in the future, and I will be cleaning up all of the code from Pandas, Numpy, Matplotlib, and Seaborn tomorrow). Tomorrow I will refactor all of my visualization code then move on to familiarizing myself with Django for a while. 
 
-Thoughts: 
+Thoughts: I know that I have barely scratched the surface of Seaborn. I worked on 17 plots and maps today, getting a deeper understanding of the module. I really like Seaborn and think I will find use for it in the future. At first I questioned why some visualizations were coded different from others, but I am starting to see why-for purposes of accuracy, checks are set up so that the user can't just put in any data. My focus for my Seaborn acclimation really was not to work with data, but was to set up the code so that I know the different visualizations in order to work with data in the future. So I used the example datasets and learned how to code the plots, but did not worry too much about what any of it meant. I am going to read through some of the documentation tonight so that tomorrow when I revisit all of my work I will have a better understanding of what is actually taking place in each plot or map. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/47_SeabornWrapUp.py]
