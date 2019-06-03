@@ -356,3 +356,10 @@ Today's Progress**: Today I worked with lists a bit in some console applications
 Thoughts: I am enjoying my dive into Seaborn, alongside further study in Matplotlib, Numpy, and Pandas. While some of my knowledge is indeed memorization as opposed to actual deep understanding, I know that the deep understanding will come as I immerse myself in the Python language. On Day 46, I can say that I am pleased with my progress. Things are certainly starting to make sense now. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/46_SeabornSwarmplot.py]
+
+## R1D47
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/47_SeabornWrapUp.py]
