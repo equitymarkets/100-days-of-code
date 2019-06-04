@@ -363,3 +363,11 @@ Today's Progress**: Today I went through all of the basic plots and maps, coding
 Thoughts: I know that I have barely scratched the surface of Seaborn. I worked on 17 plots and maps today, getting a deeper understanding of the module. I really like Seaborn and think I will find use for it in the future. At first I questioned why some visualizations were coded different from others, but I am starting to see why-for purposes of accuracy, checks are set up so that the user can't just put in any data. My focus for my Seaborn acclimation really was not to work with data, but was to set up the code so that I know the different visualizations in order to work with data in the future. So I used the example datasets and learned how to code the plots, but did not worry too much about what any of it meant. I am going to read through some of the documentation tonight so that tomorrow when I revisit all of my work I will have a better understanding of what is actually taking place in each plot or map. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/47_SeabornWrapUp.py]
+
+## R1D48
+
+Today's Progress**: I learned the plt.subplots_adjust() function and most its parameters and the plt.suptitle() function to add a title on top of subplots. I also added hlines() and vlines() with max values on a supply and demand graph with a max value to terminate the lines at an equilibrium. Since I am interested in economics I think I will use this in the future. I still want to make this idea interactive at some point. Most of the stuff I learned today was stuff that I had been putting off as I made new material. What is awesome about this challenge is that things that seemed difficult a few days ago are much easier now!
+
+Thoughts: I guess today was an average day. I worked on cleanly refactoring a few of the days and really cleaned up a few of the mini-projects but also hit a few stumbling blocks-strange that I can't even get the original code from those days to work. Well, tomorrow I have that to work on as well as some other refactors that will probably go by quicker. I am looking forward to cleaning up all of Days 25-47 on one page. 
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/Refactor/49_Refactor.py]
