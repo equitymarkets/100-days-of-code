@@ -371,3 +371,11 @@ Today's Progress**: I learned the plt.subplots_adjust() function and most its pa
 Thoughts: I guess today was an average day. I worked on cleanly refactoring a few of the days and really cleaned up a few of the mini-projects but also hit a few stumbling blocks-strange that I can't even get the original code from those days to work. Well, tomorrow I have that to work on as well as some other refactors that will probably go by quicker. I am looking forward to cleaning up all of Days 25-47 on one page. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/Refactor/49_Refactor.py]
+
+### R1D49
+
+Today's Progress**: Today I finished wrapping all of Day 25-47 into functions, refactoring some code and improving the functionality of much of it. I learned the tight_layout() function to clean up a figure, the all() built-in function thats returns True if all values are true, and how to fix an unreadable CSV (I cut and pasted the data, created a new Excel workbook, and saved it in CSV format.) That workaround proved successful but I want to experiment with this problem further. 
+
+Thoughts: I don't feel like I accomplished much, although I worked on this for over two hours. Continuously changing small pieces of code and rerunning the program was today's theme. I am glad I got those two programs to work as functions and learned the little CSV problem. I need to try reading Excel docs directly.
+
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/Refactor/49_Refactor.py]
