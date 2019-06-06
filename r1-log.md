@@ -379,3 +379,12 @@ Today's Progress**: Today I finished wrapping all of Day 25-47 into functions, r
 Thoughts: I don't feel like I accomplished much, although I worked on this for over two hours. Continuously changing small pieces of code and rerunning the program was today's theme. I am glad I got those two programs to work as functions and learned the little CSV problem. I need to try reading Excel docs directly.
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/Refactor/49_Refactor.py]
+
+
+### R1D50
+
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
