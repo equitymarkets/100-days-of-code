@@ -383,8 +383,8 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/Refactor
 
 ### R1D50
 
-Today's Progress**:  
+Today's Progress**: Today I learned a little about setting up a virtual environment on an operating system (mine is Windows). As usual, I don't feel like I got a lot done but I learned a lot. I learned how to open Powershell from a folder (shift+right click) and work in that folder. In fact, until a kind Twitter user helped me find the Powershell workaround, I was stuck using that standard cmd for the operation and it was getting stuck on something, perhaps a bad path, or multiple paths. I will remember to attempt using the Powershell next time I hit a roadblock. I also learned how to turn permissions on and off and why it can help to overcome errors. 
 
-Thoughts: 
+Thoughts: I stayed up pretty late tonight, but knowing that I have given my all and worked 1-6 hours a day for fifty days now really gave me the movivation to stick with it. I didn't even use any normal Python editor today, although I used Python in the command prompt in and out a few times. I really like the PowerShell workaround. So, as is usual on many days, I spent a long time getting little done, but it is very worth it because now I know things that I didn't know before, and I am using my skills to integrate and streamline an existing website that I hope to take live within a couple months. That's good news!
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/50_InstallingDjango.ps1]
