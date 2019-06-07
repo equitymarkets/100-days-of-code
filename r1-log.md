@@ -388,3 +388,11 @@ Today's Progress**: Today I learned a little about setting up a virtual environm
 Thoughts: I stayed up pretty late tonight, but knowing that I have given my all and worked 1-6 hours a day for fifty days now really gave me the movivation to stick with it. I didn't even use any normal Python editor today, although I used Python in the command prompt in and out a few times. I really like the PowerShell workaround. So, as is usual on many days, I spent a long time getting little done, but it is very worth it because now I know things that I didn't know before, and I am using my skills to integrate and streamline an existing website that I hope to take live within a couple months. That's good news!
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/50_InstallingDjango.ps1]
+
+### R1D51
+
+Today's Progress**:   
+
+Thoughts**: 
+
+Link to work: []
