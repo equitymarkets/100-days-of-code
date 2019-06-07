@@ -393,6 +393,6 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/5
 
 Today's Progress**: I could not get Django to work correctly today-I had a long day at work and was pretty tired when I came home. I did work on it for a while however, then switched over to something I have been meaning to do-translating some C# code into Python. My AI advancement theory, though incomplete, is something I want to complete during my 100 Days of Code. I will come back to it again when I take another break from the current things I am working on.  
 
-Thoughts**: Although I work full-time, I need to start fitting in some time earlier in the day to code. At night sometimes it is hard to focus. 
+Thoughts**: Although I work full-time, I need to start fitting in some time earlier in the day to code. At night sometimes it is hard to focus. I feel like I can be more productive if I am not working late into the night, then getting up early the next day. 
 
-Link to work: []
+Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/51_AI.py]
