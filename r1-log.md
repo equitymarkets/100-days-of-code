@@ -20,9 +20,9 @@ Thoughts: I am enjoying Python so far. Although small pieces of code seem to tak
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/2_Python.py]
 
 ### R1D3
-Today's Progress**: I made my first successful while loop in Python using the Fibonacci sequence and based on user input. I also learned my way aroung Github a little better. 
+Today's Progress**: I made my first successful while loop in Python using the Fibonacci sequence and based on user input. I also learned my way aroung Github a little better. While loops seem to be used more often in Python than in other languages. I do know that they tend to use less memory. As time goes by I will learn more about why Python users temd to write while loops more often (if that is indeed the case). 
 
-Thoughts**: Even though for loops are in most cases superior to while loops, the programs I have written for C++ and C# always used for loops so I haven't really used while loops much at all. As a beginner in Python I figured I would start learning the right way and use one to do a Fibonacci sequence, which I found a bit tricky at first. I learned the value of stepping away from the machine for a few minutes and coming back. I am not happy with the video presentation on Twitter, as the tweet was in two pieces, and my video and audio quality are still pretty bad. I am, however, happy with my progress in Python for the day. 
+Thoughts**: Even though for loops are in many cases superior to while loops, the programs I have written for C++ and C# always used for loops so I haven't really used while loops much at all. As a beginner in Python I figured I would start learning the right way and use one to do a Fibonacci sequence, which I found a bit tricky at first. I learned the value of stepping away from the machine for a few minutes and coming back. I am not happy with the video presentation on Twitter, as the tweet was in two pieces, and my video and audio quality are still pretty bad. I am, however, happy with my progress in Python for the day. 
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/3_Fibonacci.py]
 
@@ -396,3 +396,10 @@ Today's Progress**: I could not get Django to work correctly today-I had a long 
 Thoughts**: Although I work full-time, I need to start fitting in some time earlier in the day to code. At night sometimes it is hard to focus. I feel like I can be more productive if I am not working late into the night, then getting up early the next day. 
 
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/51_AI.py]
+
+### R1D52
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work**: []
