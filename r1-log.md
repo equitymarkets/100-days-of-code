@@ -398,8 +398,8 @@ Thoughts**: Although I work full-time, I need to start fitting in some time earl
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/51_AI.py]
 
 ### R1D52
-Today's Progress**:  
+Today's Progress**: The virtual environment is still not flowing well so I worked on finishing the C# translation of my AI program and will return to working on Django this evening. I am getting what is going on but maybe not fully. This type of environment is new to me so once it is working I will be all the better. I hope tonight I can get it going. So far I have learned about the venv CMD command to create a virtual environment, the existance of the wsgi.py file as a web service gateway interface, the cold start problem, and lambda function in Python as small anonymous pieces of code that can take multiple arguments but only have one expression. I dealt with the "Invalid Literal for int with Base 10" Error by commenting out all of the code below the error and working through it line-by-line-solving the problem that was escaping me the other night in several minutes. This illustrates the value of stepping away from the code now and then so as to better analyze a situation. 
 
-Thoughts: 
+Thoughts: Yesterday I worked all day, spent some time with my new baby, and even worked on installing the virtual environment for well over an hour but I didn't have any code to commit so I didn't count the day. I just can't wait to get Django working. After a short break today I will continue working with it. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/52_AIPar2.py]
