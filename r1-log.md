@@ -403,3 +403,16 @@ Today's Progress**: The virtual environment is still not flowing well so I worke
 Thoughts: Yesterday I worked all day, spent some time with my new baby, and even worked on installing the virtual environment for well over an hour but I didn't have any code to commit so I didn't count the day. I just can't wait to get Django working. After a short break today I will continue working with it. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/52_AIPar2.py]
+
+
+### R1D53
+Today's Progress**: Today I spent hours trying to figure out how to properly finish installing the virtual environment. While there may have been some progress made in my understanding of Windows dependencies and Python in general, I didn't get past PowerShell-I learned some PowerShell commands like mkdir, pip freeze, and run server, but I hardly was able to type much Python code at all. Yes, I learned a lot but it wasn't enough to get this project off the ground. 
+
+Thoughts: I understand that learning any language requires some deep understanding of the operating system you are working on, so for that I am grateful for today. Leaning Powershell is also valuable for this experience, but I do want to get back to working on Python code, as per my goals during this challenge. I am now considering whether I need to be taking the Django route right now. I will keep working on it tomorrow. I need to get some theory in my mind and maybe then I can return to Python, PowerShell, and the Django Virtual environment. 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/53_VirtualEnvironment.ps1]
+
+### R1D5
+Today's Progress**:  
+
+Thoughts:  
