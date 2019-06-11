@@ -412,7 +412,10 @@ Thoughts: I understand that learning any language requires some deep understandi
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/53_VirtualEnvironment.ps1]
 
-### R1D5
-Today's Progress**:  
+### R1D54
 
-Thoughts:  
+Today's Progress**: Today I spent some time working on the Virtual Environment again. I learned exit() which to my knowledge, functions the same as quit(), to leave Python and get back to the command prompt. I learned the three quotations to leave a long comment in the program. I did figure out the script to create the dependencies, and learned about the activate.bat script and its role in running applications. 
+
+Thoughts: I don't want to get burned out from trying to figure out the exact way to setup a perfect Python environment. If I keep having problems with it I will skip a few things and start to code the project anyways. I have the environment set up but seem to have problems when I run commands like runserver or migrate. I will do what I have to do to keep moving and if something is over my head, I can come back to it when my knowledge of the Python standard library is better. My object here is to code for 100 days, not to do everything perfect every time. If I keep moving I will get better at this. 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/54_AIpart3.py]
