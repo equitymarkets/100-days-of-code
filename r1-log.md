@@ -421,8 +421,9 @@ Thoughts: I don't want to get burned out from trying to figure out the exact way
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/54_AIpart3.py]
 
 ## R1D155
-Today's Progress**:  
 
-Thoughts: 
+Today's Progress**: Today I marked a huge milestone: I finished setting up my initial virtual environment and ran commands on it, including startproject, migrate, runserver, and startapp. I don't think I will have problems quite like this again. I now have a much deeper understanding of Windows dependencies. Ironically, managing Windows dependencies around the index.html homepage, subpages, images file, etc. is something my students always have a problem understanding as well. Now that I am starting to set up directories in other environments, maybe I will also find this type of subject easier to teach as well. 
 
-Link to work:** []
+Thoughts: I spent some time today running all of the test to make sure that my app was indeed set up correctly and so far, so good. I'm very happy that such a simple thing is now done. I want to get started building my new website and using the existing assets that I have to start generating some traffic. It is a very exciting time. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/55_VirtualEnvironmentPart2.ps1]
