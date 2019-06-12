@@ -419,3 +419,10 @@ Today's Progress**: Today I spent some time working on the Virtual Environment a
 Thoughts: I don't want to get burned out from trying to figure out the exact way to setup a perfect Python environment. If I keep having problems with it I will skip a few things and start to code the project anyways. I have the environment set up but seem to have problems when I run commands like runserver or migrate. I will do what I have to do to keep moving and if something is over my head, I can come back to it when my knowledge of the Python standard library is better. My object here is to code for 100 days, not to do everything perfect every time. If I keep moving I will get better at this. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/54_AIpart3.py]
+
+## R1D155
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
