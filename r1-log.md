@@ -420,10 +420,19 @@ Thoughts: I don't want to get burned out from trying to figure out the exact way
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/54_AIpart3.py]
 
-## R1D155
+## R1D55
 
 Today's Progress**: Today I marked a huge milestone: I finished setting up my initial virtual environment and ran commands on it, including startproject, migrate, runserver, and startapp. I don't think I will have problems quite like this again. I now have a much deeper understanding of Windows dependencies. Ironically, managing Windows dependencies around the index.html homepage, subpages, images file, etc. is something my students always have a problem understanding as well. Now that I am starting to set up directories in other environments, maybe I will also find this type of subject easier to teach as well. 
 
 Thoughts: I spent some time today running all of the test to make sure that my app was indeed set up correctly and so far, so good. I'm very happy that such a simple thing is now done. I want to get started building my new website and using the existing assets that I have to start generating some traffic. It is a very exciting time. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/55_VirtualEnvironmentPart2.ps1]
+
+## R1D56
+
+Today's Progress**: Despite learning a lot of theory I didn't type too much Python code today-only some modifications in Models and learning about fields and the "max_length=" classifier. I did run into an error which I eventually fixed: "__init__()
+missing one positional argument: "on_delete"". I fixed this by rewriting the topic attribute to have an on_delete parameter. The important thing was that I finally set up the final directory to begin my project. After what seems like an eternity (6 days) the virtual environment, migrations, and app startup are finished and clean and I am now working on the foundation of riceforest.com. So it is an exciting day despite not having much code to show for it. The link to work shows the powershell commands that work on my machine to get as far as I have as per the twitter video. 
+
+Thoughts: Good things happen in different forms. I don't have a load of new code to submit today but my Django project is off the ground! I am very happy that I now understand Windows dependencies a lot better than before-I even redid the project so far so that it will be clean as I move forward (I had one extra folder that I didn't need.) I don't know how long it will take to roll out the riceforest project, but I would like to finish it, and a few other things, by Day 100. 
+
+Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/56_DjangoProjectKickoff.ps1]
