@@ -439,8 +439,11 @@ Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/56
 
 ## R1D57
 
-Today's Progress**: 
+Today's Progress**: My knowledge of hierarchical file structures is growing quickly. Today I even was in a conversation with a coworker about what he thought was slowing down his computer with a new app he was using. I was able to say so much more than just referring to the hard drive space and RAM.  It's amazing how this experience is so relatable to so many things. I never really knew how an app worked, and now I am on the road to developing one. I encountered a couple errors today: one is still occurring but my app is doing what I planned. I will troubleshoot the Powershell error tomorrow. 
 
-Thoughts:  
+Thoughts: I know I am making progress now that I am able to get back into the Python editor and type Python code. But the Powershell experience is helping me too. I want to explore the Models Field page more tomorrow. 
 
+Link to work:**[]
+Link to work:**[]
+Link to work:**[]
 Link to work:**[]
