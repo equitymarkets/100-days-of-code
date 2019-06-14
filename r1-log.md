@@ -436,3 +436,11 @@ missing one positional argument: "on_delete"". I fixed this by rewriting the top
 Thoughts: Good things happen in different forms. I don't have a load of new code to submit today but my Django project is off the ground! I am very happy that I now understand Windows dependencies a lot better than before-I even redid the project so far so that it will be clean as I move forward (I had one extra folder that I didn't need.) I don't know how long it will take to roll out the riceforest project, but I would like to finish it, and a few other things, by Day 100. 
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/56_DjangoProjectKickoff.ps1]
+
+## R1D57
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:**[]
