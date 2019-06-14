@@ -443,7 +443,5 @@ Today's Progress**: My knowledge of hierarchical file structures is growing quic
 
 Thoughts: I know I am making progress now that I am able to get back into the Python editor and type Python code. But the Powershell experience is helping me too. I want to explore the Models Field page more tomorrow. 
 
-Link to work:**[]
-Link to work:**[]
-Link to work:**[]
-Link to work:**[]
+Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/Day_57_CommandShellSolutionPart3.txt]
+
