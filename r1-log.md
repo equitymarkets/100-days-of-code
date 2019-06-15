@@ -445,3 +445,11 @@ Thoughts: I know I am making progress now that I am able to get back into the Py
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/Day_57_CommandShellSolutionPart3.txt]
 
+## R1D58
+
+Today's Progress**: Redoing, breaking, and fixing was the name of the game today. I am making this program work in its early stages, but I keep changing things to see what I can do with my final project as I progress. So far, I have been about to get things back to where they were each time.  
+
+Thoughts: I'm really glad I decided to learn Python, With all the console algorithms in the beginning, the data visualizations in the middle, and the web dev foundations now, I really feel like I am developing a good skillset. Now it is time to start rolling out some productive work. I can't just learn forever, I want to go public with some quality projects. 
+
+Link to work**: []
+
