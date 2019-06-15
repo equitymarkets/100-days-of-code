@@ -449,7 +449,7 @@ Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/Da
 
 Today's Progress**: Redoing, breaking, and fixing was the name of the game today. I am making this program work in its early stages, but I keep changing things to see what I can do with my final project as I progress. So far, I have been about to get things back to where they were each time.  
 
-Thoughts: I'm really glad I decided to learn Python, With all the console algorithms in the beginning, the data visualizations in the middle, and the web dev foundations now, I really feel like I am developing a good skillset. Now it is time to start rolling out some productive work. I can't just learn forever, I want to go public with some quality projects. 
+Thoughts: I'm really glad I decided to learn Python, With all the console algorithms in the beginning, the data visualizations in the middle, and the web dev foundations now, I really feel like I am developing a good skillset. Now it is time to start rolling out some productive work. I can't just learn forever, I want to go public with some quality projects. Sometime I work for hours and have very little quality code to submit by the end of my time. Even though I do often learn a lot when this occurs, I don't feel like I got much done in these cases. One big this I did learn is the format of a typical chain, like "from rice_forest.models import Objective", meaning rice_forest is the project, models is the file, and Objective is the class within the file. I guess I knew it was something like that, but to see it in action confirms my speculation. I hadn't really dove deep into the Python theory yet-I generally learn faster by doing stuff like this and learning it in practice. That is why I document all errors and fixes. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/58_ContinuingDjangoInit.py]
 
