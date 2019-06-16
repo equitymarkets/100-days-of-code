@@ -455,11 +455,11 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/5
 
 ### R1D59
 
-Today's Progress**: 
+Today's Progress**: Today I did a few things. I worked a bit on the riceforest app, I read some documentation on Django Models Field, I worked on annotations in my 3D AI program, I made the visualization more user-oriented (it now changes according to radius inputs), and I made a global variable in the form of float so as to avoid hardcoding every snippet to change the user input back from string. 
 
-Thoughts:  
+Thoughts: I made progress on both projects today but it wasn't much. That is okay though because all of it has to be done. Slower days mean I learn more. If I am always just typing away at code, it means I am probably not doing anything I don't understand, and thereby not learning much. I feel the best thing I learned was working with python manage.py shell to examine data. Once I get better at interpreting the outputs for stuff like this, I will be a better and quicker developer. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/59_AIPart4.py]
 
 ### R1D60
 
