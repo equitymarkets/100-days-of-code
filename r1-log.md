@@ -27,9 +27,9 @@ Thoughts**: Even though for loops are in many cases superior to while loops, the
 Link to work: [https://github.com/equitymarkets/100-days-of-code/blob/master/3_Fibonacci.py]
 
 ### R1D4
-Today's Progress**: Today I used a lot of new methods, including pop(), insert(), str(), max(), min(), stdev(), variance(), and mean(). I learned that I need to import the statistics module if I want to use certain methods. I created random numbers within a loop (my first Python for loop). I first used ctrl+y to undo a previous edit. Tomorrow I want to study more about definite vs. indefinite iterations. 
+Today's Progress**: Today I used a lot of new methods, including pop(), insert(), str(), max(), min(), stdev(), variance(), and mean(). I learned that I need to import the statistics module if I want to use certain methods. I created random numbers within a loop (my first Python for loop). I first used ctrl+y to undo a previous edit. Tomorrow I want to study more about definite vs. indefinite iterations. I do know that a for loop represents a definite iteration, while a while loop represents an indefinite iteration. 
 
-Thoughts: I learned a lot today but I felt that it came quicker than before. I feel my journey is well underway now. I had some problems first importing the statistics module; it didn't seem as if I had that module at first but upon the second try, the auto-complete/intellisense kicked in and I knew at that moment that it was there. Everything worked from that point in. This is the second day that I ran into some roadblocks trying to do what I wanted to do. I realize that harder times are ahead but I also know that is the only way to really learn something. 
+Thoughts: I learned a lot today but I felt that it came quicker than before. I feel my journey is well underway now. I had some problems first importing the statistics module; it didn't seem as if I had that module at first but upon the second try, the auto-complete/intellisense kicked in and I knew at that moment that it was there. Everything worked from that point on. This is the second day that I ran into some roadblocks trying to do what I wanted to do. I realize that harder times are ahead but I also know that is the only way to really learn something. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/4_DataScienceinPython.py]
 
@@ -452,4 +452,60 @@ Today's Progress**: Redoing, breaking, and fixing was the name of the game today
 Thoughts: I'm really glad I decided to learn Python, With all the console algorithms in the beginning, the data visualizations in the middle, and the web dev foundations now, I really feel like I am developing a good skillset. Now it is time to start rolling out some productive work. I can't just learn forever, I want to go public with some quality projects. Sometime I work for hours and have very little quality code to submit by the end of my time. Even though I do often learn a lot when this occurs, I don't feel like I got much done in these cases. One big this I did learn is the format of a typical chain, like "from rice_forest.models import Objective", meaning rice_forest is the project, models is the file, and Objective is the class within the file. I guess I knew it was something like that, but to see it in action confirms my speculation. I hadn't really dove deep into the Python theory yet-I generally learn faster by doing stuff like this and learning it in practice. That is why I document all errors and fixes. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/58_ContinuingDjangoInit.py]
+
+### R1D59
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
+
+### R1D60
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
+
+### R1D61
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
+
+### R1D62
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
+
+### R1D63
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
+
+### R1D64
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
+
+### R1D65
+
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work**: []
 
