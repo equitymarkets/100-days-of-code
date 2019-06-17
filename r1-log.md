@@ -463,11 +463,11 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/5
 
 ### R1D60
 
-Today's Progress**: 
+Today's Progress**: Today I continued learning Django, then moved on to learning some visualizations in matplotlib and numpy-working for the 5th day on my AI visualization project. I learned about the .gca(projection='3d') function, learned about making 3D cubes in mplot3D, made some arrows, and encountered more than a few errors. I look forward to finishing the AI visualization soon. Actually, the visualization is the small part of this-the written content will require a lot of research. 
 
 Thoughts: I think getting started in Django is unnecessarily complicated. I find it amazing that I will have something working perfectly, go back and tweak one or two things, and find an unworkable program. Then I will just delete the tweaks and find that the damage done to the program is unreparable and I have to go back in and start the entire project over. Now, I guess this is good in the beginning because I am learning a LOT about setting up a virtual environment, migration, and server controls, but I don't know why so many things are unworkable after small tweaks, and I really don't understand why differences between versions of Python (not just 2 and 3, but builds of each), operating systems (including versions of each) and frameworks have such different commands. Every how-to guide I have seen has not been quite right on my system, so I have to tweak each of the commands to fit into my environment until I find something that works, and oftentimes I also have to search online for changes in the books because parameters once used for functions now lead to errors! Is that improvement? I have heard that Django is great once everything is running, and I am not going to give up on it yet, but I am spending hours just figuring out little tasks that I have all the documentation for, even the scripts for, but whose requirements have changed since print. I question the complexity. My task here is to learn Python, not any particular framework, so if Django continues to take so much time, I will try another framework for my project. I want to get it moving and the things I am spending time on are too small to spend days working through. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/60_AIPart5.py]
 
 ### R1D61
 
