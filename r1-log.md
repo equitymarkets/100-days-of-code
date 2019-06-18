@@ -471,11 +471,11 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/6
 
 ### R1D61
 
-Today's Progress**: 
+Today's Progress**: I learned more about np.arange() which returns evenly spaced values within a given interval, np.zeros() which returns an array of zeros as specified in the parentheses, and plt.quiver() which I now half-understand but need to explore further in order to get my arrows on this chart looking clean. The best thing I learned, since I do want to do some graphic design with my new skill, is the RGBA tool to specify opacity. While definitely not the quickest way, I simply opened a PowerPoint palette, found the numbers, and googled the hex values. I'd like to find a way to specify transparency without using hex, but I want to get better at using hex anyways. I know how to calculate it, but not quickly.  
 
-Thoughts:  
+Thoughts: I had another busy day at work but I did manage to squeeze in a few hours here and there throughout the day. I'm glad that I will get a reasonable amount of sleep tonight, and still feel like I accomplished something.  
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/61_AIPart6.py]
 
 ### R1D62
 
