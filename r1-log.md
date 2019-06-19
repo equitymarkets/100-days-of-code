@@ -479,11 +479,11 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/6
 
 ### R1D62
 
-Today's Progress**: 
+Today's Progress**: I got a fairly acceptable visual representation of the AI sphere model today, working with both ax.quiver(x,y,z,dir1,dir2,dir3) and ax.scatter(x,y,z,color). I am happy with it for now, although it is not interactive based on the cube-that will simply take some geometric calculations. There is actually a lot I can do with the using random collision points, but I will wait until I get the paper written explaining the theory a little better. 
 
-Thoughts:  
+Thoughts: My lesson learned today was to know and understand the x, y, z coordinate system-I was mixing the three coordinated up because I thought that y was still the vertical axis but in this case that is z. I do like the challenge doing visualizations, though, and although today's work seemed small, it will help me in the future. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/62_AIParticleCollision(Part7).py]
 
 ### R1D63
 
