@@ -487,11 +487,11 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/6
 
 ### R1D63
 
-Today's Progress**: 
+Today's Progress**: I encountered a few errors today as I reworked my admin page. I made some goals in the proper model once I built it. I was trying to give a 'text' attribute a different name-that didn't work so well. I also missed an indent and completely threw off the program. I learned about using the python manage.py shell program for diagnostics, which I think is a very valuable tool so far. 
 
-Thoughts:  
+Thoughts: Although I have not really sat down and worked too much with Github, I have used it a lot by this time and I know my repository is pretty much butchered up. I do need to organize it soon, as I move forward with my code base.  
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/63_FrameworkSoFar.py/63_models.py]
 
 ### R1D64
 
