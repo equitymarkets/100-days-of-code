@@ -495,11 +495,11 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/63_Frame
 
 ### R1D64
 
-Today's Progress**: 
+Today's Progress**: My project is off the ground now. This weekend I want to think over the time required to do what I want to do and get a realistic timeline for the project. Luckily I was able to pull some old PHP files that I though were lost from an external hard drive. It's nice to know that they are still there. They aren't beautiful, but some of the content I definitely want to keep. As far as Python goes, I learned still a lot more about dependencies, folders, directories, and such. I learned that the Django database is just an interface to the actual database. I learned that a Foreign Key represents a one-to-many relationship. I learned that URLs map to a view. I learned that ' . ' on an import means ' same directory '. I even learned about the render() function to pull requests from the index.html homepage. I learned a lot today. 
 
-Thoughts:  
+Thoughts: I feel great that I learned all I did. For a while I was not able to write a lot of code while I was learning the virtual environment and migrations but now that I am rolling I can use some of my existing assets to make something nice. I don't want to plan too much-I want to take this as it comes, get a few users, and use the "tracer bullet" approach to improve my app. I am really in no hurry at this time, but I would like to finish before my first 100 Days of Code round. (I think there will be a second!)  
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/64_ModsandAdditions.py]
 
 ### R1D65
 
