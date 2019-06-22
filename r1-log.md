@@ -503,9 +503,9 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/6
 
 ### R1D65
 
-Today's Progress**: 
+Today's Progress**: I fixed my first link that I was having so many problems with yesterday-there were a few dependencies in my python files that I was not correctly updating and I also needed to add a base.html page to define redundant data so as to avoid redoing every page. The link problem was solved by removing the '.html' from my new django link from my old PHP homepage. This generated a No Reverse Match error; I don't think that the Traceback was specific enough for something so specific, but nevertheless, I know Django is an important skillset to have and now problems are taking less time to fix than they did before. I can only hope this trend continues!
 
-Thoughts:  
+Thoughts: I am not experiencing the magic of Django yet, since I am really just translating over some old WAMP PHP files to fit into the framework, but in my reading I am starting to see where Python and Django will make my back engine more effective. I can't wait until I can experience that. Tomorrow I have to fix dozens of links and do some entry into my Django application files. This will likely be a muscle memory day, getting quicker and more efficient at old stuff, than actually learning new functions, etc. 
 
 Link to work**: []
 
