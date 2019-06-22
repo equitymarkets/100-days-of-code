@@ -507,5 +507,5 @@ Today's Progress**: I fixed my first link that I was having so many problems wit
 
 Thoughts: I am not experiencing the magic of Django yet, since I am really just translating over some old WAMP PHP files to fit into the framework, but in my reading I am starting to see where Python and Django will make my back engine more effective. I can't wait until I can experience that. Tomorrow I have to fix dozens of links and do some entry into my Django application files. This will likely be a muscle memory day, getting quicker and more efficient at old stuff, than actually learning new functions, etc. 
 
-Link to work**: []
+Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/65_InsertionScripts.html]
 
