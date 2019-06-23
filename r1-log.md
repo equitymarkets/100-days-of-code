@@ -509,3 +509,66 @@ Thoughts: I am not experiencing the magic of Django yet, since I am really just 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/65_InsertionScripts.html]
 
+### R1D66 
+Today's Progress**: My biggest issue today has been getting CSS image links to work in my new Django framework. 
+
+Thoughts:  I feel like I am making fast progress now but I know the hard part of this last project is ahead. I want to get the project finished before my first 100 Days of Code ends but I don't want to rush through anything. The solution is going to come through time management, in what is my busiest time of year in the teaching business here in Thailand. Every day I need to make sure that a milestone is completed. 
+
+Link to work:** []
+
+### R1D67 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D68 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D69 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D70 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D71 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D72 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D73 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
+### R1D74 
+Today's Progress**: 
+
+Thoughts:  
+
+Link to work:** []
+
