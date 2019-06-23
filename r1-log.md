@@ -510,11 +510,11 @@ Thoughts: I am not experiencing the magic of Django yet, since I am really just 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/65_InsertionScripts.html]
 
 ### R1D66 
-Today's Progress**: My biggest issue today has been getting CSS image links to work in my new Django framework. 
+Today's Progress**: My biggest issue today has been getting CSS image links to work in my new Django framework. However, during my first session I was able to quickly manage all my links to adapt to the format needed to work within the Django framework. I got half of what I wanted to done, but I am a lot closer to understanding all of the background files such as views.py, urls.py, and settings.py. I also streamlined my sites with a base.html page so that I do not have to have redundant code in all my html pages. I also defined a rough version of my prototype and a tentative timeline for the project. I actually got a lot done today but I still really want to get those images working. Once again, I am wondering about the complexity of Django and why previous links can't just work the way they did before. (The issue is images on top of hyperlinks-the links work but I am having problems pulling the images from my static file.) I installed Bootstrap via pip for styling but have yet to use it yet. Other than the functional improvements to my page, I learned about the concept of static files. 
 
 Thoughts:  I feel like I am making fast progress now but I know the hard part of this last project is ahead. I want to get the project finished before my first 100 Days of Code ends but I don't want to rush through anything. The solution is going to come through time management, in what is my busiest time of year in the teaching business here in Thailand. Every day I need to make sure that a milestone is completed. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/66_ContinuingRiceForest.py]
 
 ### R1D67 
 Today's Progress**: 
