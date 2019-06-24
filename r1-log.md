@@ -517,9 +517,9 @@ Thoughts:  I feel like I am making fast progress now but I know the hard part of
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/66_ContinuingRiceForest.py]
 
 ### R1D67 
-Today's Progress**: 
+Today's Progress**: Today's milestone, and I feel it was a big one, was simply getting everything to work, via the Django framework, as it was working in WAMP before. Figuring out the dynamic linking system using static CSS, and moving my head and title tags out of the base.html file and into the specific menu files made everything look like it did before. (This is, of course, an unfinished site, and Django is going to provide my backengine to get it all running very soon.) 
 
-Thoughts:  
+Thoughts: My goal for the hard-copy prototype is June 27, my sister's birthday, so I am really trying to pinpoint all of the things that will take a long time, require consultation, or take a while to learn and estimate the times on them so that I am ready to move forward as time goes by.  
 
 Link to work:** []
 
