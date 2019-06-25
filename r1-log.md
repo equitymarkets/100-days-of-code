@@ -524,11 +524,11 @@ Thoughts: My goal for the hard-copy prototype is June 27, my sister's birthday, 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/67_styles.css]
 
 ### R1D68 
-Today's Progress**: 
+Today's Progress**: I made a newbie error in Html/CSS today. I added in a snippet of code and somehow cut off a </div>, causing all of the containers to slip to the bottom. This reinforced the need to always indent properly, as html is not as strict as Python when it comes to indents. I also worked in some of my .py source files trying to add a personal blog to the site to keep up with my goals. I feel like I almost have this, and by tomorrow this should be clearer to me. It shouldn't be a huge priority though, so I will do it after I do some more work on the base files. I learned something about CSS that I should of known, or maybe had forgotten: padding means the space inside the div and margin means the space outside. Just writing this gives me the feeling I won't forget it! I made various Django attribute errors and fixed some of them just by actually reading and understanding the Tracebacks. I am starting to get what they mean, finally!
 
-Thoughts:  
+Thoughts: My goal was to get a drop-down on the front page and I did it. I wanted to get that blog goal page up for my June 27th prototype deadline but right now it is just a white page with a few dead links. Actually, polishing up the goals and timeline are more of a priority than the actual sub-page, so I will be working on those tomorrow. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/68_DropDown.html]
 
 ### R1D69 
 Today's Progress**: 
