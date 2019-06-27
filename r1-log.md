@@ -531,11 +531,11 @@ Thoughts: My goal was to get a drop-down on the front page and I did it. I wante
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/68_DropDown.html]
 
 ### R1D69 
-Today's Progress**: 
+Today's Progress**: The standard way in Django of defining the URL, writing the view, and writing the template, then making them all work together, while being something I understand, is what I am struggling with putting to practice. A couple weeks ago when I started Django I did a tutorial to make a blog. I am not trying to make a blog similar to that for my 100 Days of Code project, as a sub-page to my new site. While it might not be a business priority for the site to work well, I am still trying to focus most of my time on Python rather than Html, Javascript, and CSS, so I have devoted my time today in trying to make this work so as to further my Python skils (but, yes, also have a stronger foundation for the site's infrastructure). I practiced with URL mapping and encountered a page not found 404 error which I cured by just adding a slash onto the end of the sub-page I was linking to in the URLS.py file. 
 
-Thoughts:  
+Thoughts: Over the last few days I have realized the importance of defining goals in the most possible detail when it comes to coding, because indecision can slow you down over time. The caveat is that once you have a definite build, you can always go back and change it with little effort, given the program foundation (and newfound knowledge) relating to the project. I'm definitely in a small slump here-I just hope it doesn't turn into a big one. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/69_URLS.py]
 
 ### R1D70 
 Today's Progress**: 
