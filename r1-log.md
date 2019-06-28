@@ -538,11 +538,11 @@ Thoughts: Over the last few days I have realized the importance of defining goal
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/69_URLS.py]
 
 ### R1D70 
-Today's Progress**: 
+Today's Progress**: I learned about plotting a random walk scatterplot and the choice() inbuilt random function for Python, which returns a random number from a list, tuple, or string. I also rendered a world map on a browser from Pygal. Actually getting the render took a few minutes of research (a browser wasn't my first choice) but it seems some of the functionality of Pygal has been deprecated in Python 3.7. I was glad to get the map going. I reviewed importing self-made modules-a simple concept that I am just starting to appreciate the importance of. I learned the difference between the World() black & white function and the SupranationalWorld() function which is in color. 
 
-Thoughts:  
+Thoughts: I know that for myself total immersion into something can lead to burnout. Although I don't have the opportunity to be totally immersed in anything right now, at work I teach web development between 1-4 hours a day so coming home to do it I understand could lead to burnout, which I don't want. I also know Python has a huge universe of resources available so today I did something different. I didn't get a scatterplot done yet, which I want to do, but I found the world map function in Pygal to be awesome, and I see that there is a Django integration for plotting as well so I may end up using this for my project also. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/70_Pygal.py]
 
 ### R1D71 
 Today's Progress**: 
