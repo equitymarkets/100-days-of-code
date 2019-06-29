@@ -1,0 +1,239 @@
+#logo {
+    background-image: url(assets/Logo.png);
+    margin: 4px;
+    height: 62px;
+    width: 405px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    border: 4px solid #000000;
+    float: left;
+}
+
+#flagsTH {
+    background-image: url(assets/Thailand.png);
+    margin: 4px;
+    height: 62px;
+    width: 90px;
+    padding: 0px;
+    border: 4px solid #000000;
+    float: right;
+}
+
+#flagsES {
+    background-image: url(assets/Spain.png);
+    margin: 4px;
+    height: 62px;
+    width: 90px;
+    padding: 0px;
+    border: 4px solid #000000;
+    float: right;
+}
+
+#flagsUK {
+    background-image: url(assets/UK.png);
+    margin: 4px;
+    height: 62px;
+    width: 90px;
+    padding: 0px;
+    border: 4px solid #000000;
+    float: right;
+}
+
+ul {
+    width: 100%;
+	list-style-type: none;
+	margin: none;
+	overflow: hidden;
+	white-space: wrap;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+li {
+    float: left;
+    display: block;
+    color: white;
+    background-color: #2538CF;
+    text-align: center;
+    padding-bottom: 12px;
+    padding-top: 12px;
+    padding-left: 50px;
+    padding-right: 50px;
+    border: 4px solid black;
+    text-decoration: none;
+}
+
+a:link {
+    color: white;
+}
+
+a:visited {
+    color: turquoise;
+}
+
+a:hover {
+    color: black;
+}
+
+a:active {
+    color: rgba(229,166,217,1.00);
+}
+
+
+
+#container1 {
+    font-size: 20px;
+    background-color: #FFFFFF;
+    height: 100%;
+    width: 90%;
+    border: 4px solid #5C8DBB;
+    padding: 1%;
+    margin-right: auto;
+    margin-left: auto;
+}
+    #container1 a:link {
+        color: blue
+        }
+#home_container {
+    font-size: 20px;
+    background-color: #FFFFFF;
+    height: 800px;
+    width: 90%;
+    border: 4px solid #5C8DBB;
+    padding: 1%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+    #home_container #leftsub {
+        float: left;
+        width: 47%;
+        height: 47%;
+        margin-left: 0px;
+        margin-top: 0px;
+        background: white;
+        padding: 5px;
+        border: 4px solid #5C8DBB;
+    }
+        #home_container #leftsub #info {
+            float: center;
+            width: 97%;
+            height: 47%;
+            margin-left: 0px;
+            margin-top: 0px;
+            background: white;
+            padding: 5px;
+            border: 4px solid #5C8DBB;
+        }
+    #home_container #rightsub {
+        float: right;
+        width: 47%;
+        height: 47%;
+        margin-right: 0px;
+        margin-top: 0px;
+        background: white;
+        border: 4px solid #5C8DBB;
+        padding: 5px;
+    }
+        #home_container #rightsub #info {
+            float: center;
+            width: 97%;
+            height: 47%;
+            margin-left: 0px;
+            margin-top: 0px;
+            background: white;
+            padding: 5px;
+            border: 4px solid #5C8DBB;
+        }
+    #home_container #registration {
+        float: left;
+        background-color: white;
+        height: 47%;
+        width: 47%;
+        border: 4px solid #5C8DBB;
+        padding: 5px;
+        margin-bottom: 0px;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    #home_container #extra {
+        float: right;
+        background-color: white;
+        height: 47%;
+        width: 47%;
+        border: 4px solid #5C8DBB;
+        padding: 5px;
+        margin-bottom: 0px;
+        margin-top: 20px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+        #home_container #extra a:link {
+        color: blue
+        }
+.dropbtn {
+    background-color: #2538CF;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+}
+
+    .dropbtn:hover, .dropbtn:focus {
+        background-color: #2538CF;
+    }
+
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+    .dropdown-content a {
+        color: black;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
+
+
+        .dropdown-content a:hover {
+            background-color: #ddd
+        }
+
+
+.show {
+    display: block;
+}
+
+
+
+
+
+
+
+
+#footer {
+    float: bottom;
+    height: 40px;
+    width: 90%;
+    padding: 1%;
+    border: 4px solid #5C8DBB;
+    border-style: solid;
+    margin-right: auto;
+    margin-left: auto;
