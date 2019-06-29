@@ -545,11 +545,11 @@ Thoughts: I know that for myself total immersion into something can lead to burn
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/70_Pygal.py]
 
 ### R1D71 
-Today's Progress**: 
+Today's Progress**: I brushed up on some CSS fundamentals today while working on my project, adding in a second main conainer for my homepage, modifying some link colors so that they fit with the background, and learned that I need to reset the server through Django as well as clear my browser history to get a clean link list on localhost (to make sure links, hovers, past clicks, etc. look acceptable against the background).
 
-Thoughts:  
+Thoughts: After finishing my prototype today, I realized just how much work I have ahead of me to really make this thing work by the time 100 Days of Code R1 ends. I need to know more Javascript than I know now. I need work on making widgets, especially a GPS directional component, and I will need to hire someone to write iOS and Android apps IF I like the finished product. July will be a busy month! 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/71_CSSChanges.css]
 
 ### R1D72 
 Today's Progress**: 
