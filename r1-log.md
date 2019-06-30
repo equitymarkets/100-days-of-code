@@ -552,11 +552,11 @@ Thoughts: After finishing my prototype today, I realized just how much work I ha
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/71_CSSChanges.css]
 
 ### R1D72 
-Today's Progress**: 
+Today's Progress**: Today I learned a bit about Javascript, a language I should know but don't. I learned about its back-end functionality, a less-obvious characteristic than its front-end, well-known application. I used a bit of Visual Studio and explored some extensions. I used the Chrome browser via the Inspect>Console web viewer to see Html, CSS, and JS. Finally, I learned how to encrypt data in Python with the SHA256 algorithm after importing hashlib. I didn't get a lot done code-wise, but I put some encrypted 256-bit transactions into a block and learned a whole lot. 
 
-Thoughts:  
+Thoughts: Now is the time in my journey that I am really starting to wish that I had eight hours a day to do coding, rather than nights (I usually work 7 days/week and even though my job does entail teaching some code, I am not doing the things I would like to be doing. When I get home I spend time with my new daughter, which I wouldn't trade for anything, and usually start coding later in the evening.) Seeing the encryption algorithms in Python, looking at some of the Visual Studio extensions, and learning about Javascript makes me want to learn so much that I don't know, and use it as well.  
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/72_Encryption.py]
 
 ### R1D73 
 Today's Progress**: 
