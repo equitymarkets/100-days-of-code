@@ -559,11 +559,11 @@ Thoughts: Now is the time in my journey that I am really starting to wish that I
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/72_Encryption.py]
 
 ### R1D73 
-Today's Progress**: 
+Today's Progress**: I learned a few basics of the language, _ to signify a , or a space between 3 zeros in a large number, the help(function) function and, at a higher level, a way to hash a variable. I am happy about what I learned but not necessarily happy with the code I produced.  
 
-Thoughts:  
+Thoughts: Some days I spend many hours working into the night to figure out things I am working on here and to have a presentation on my Twitter videos that makes sense. Today I learned a lot but I don't feel real happy with the final code. But I spent a few hours learning this material. I do, however, want to catch up on my sleep so that I may be more productive in the upcoming days.  
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/73_EncryptionandBlockchain.py]
 
 ### R1D74 
 Today's Progress**: 
