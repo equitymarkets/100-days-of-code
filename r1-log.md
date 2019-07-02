@@ -566,9 +566,9 @@ Thoughts: Some days I spend many hours working into the night to figure out thin
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/73_EncryptionandBlockchain.py]
 
 ### R1D74 
-Today's Progress**: 
+Today's Progress**: I learned a lot more about blockchain technology today, mainly the 2^(256-decreasing n) algorithm that causes mining to get harder and harder as Moore's law continues. I also learned a little about classes in Python, particularly the __init__() function inside of a class. I need to watch some videos on class basics in Python though. 
 
-Thoughts:  
+Thoughts: Once again, I wish I would of been able to start earlier than I did so as to feel more sharp. But all I can say is that, for a few hours of work, I am a day ahead of where I was yesterday in understanding both blockchain and the class structure in Python. I am going to print off a paper copy of this blockchain code and study it in my downtime tomorrow at work.  
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/74_Blockchain.py]
 
