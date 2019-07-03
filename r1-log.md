@@ -572,3 +572,9 @@ Thoughts: Once again, I wish I would of been able to start earlier than I did so
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/74_Blockchain.py]
 
+### R1D75
+Today's Progress**: I made some stylistic changes to the website to make it look better: adding an opacity property to my CSS flag tags, fixing the views.py and urls.py files to accepts a few link requests, adding an html page called 'login' and better centering my u1 bar with li tags at the top of the page (this still needs work to flow with all browsers).
+
+Thoughts: I did a few things today I have been meaning to do for a while. I'm happy the site is finally looking like a site, although it doesn't do much yet. I actually don't need to make it pretty yet-my objective is functionality in the beginning so that mean most of my html is complete-now it is a matter of building some widgets and adding backend functionality (obviously the hard part). But I have confidence I can do it! 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/75_ViewsandUrlsUpdates.py]
