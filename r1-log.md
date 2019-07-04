@@ -578,3 +578,10 @@ Today's Progress**: I made some stylistic changes to the website to make it look
 Thoughts: I did a few things today I have been meaning to do for a while. I'm happy the site is finally looking like a site, although it doesn't do much yet. I actually don't need to make it pretty yet-my objective is functionality in the beginning so that mean most of my html is complete-now it is a matter of building some widgets and adding backend functionality (obviously the hard part). But I have confidence I can do it! 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/75_ViewsandUrlsUpdates.py]
+
+## R1D76
+Today's Progress**: I worked on some Python code as well as some Django injections into the html for my register.html and login.html pages, but was not able to get them to work yet. I am, however, a little closer to understanding GET and POST requests (at least I know they are there and what they do). Tomorrow I want to look back over the Django documentation so that I can be able to construct registration and login forms at will. I do predict that the database end make take some time to learn also, which I haven't even touched upon.  
+
+Thoughts: I wanted to be able to create standard user accounts today and I didn't hit that goal. Other than my other goals, better understanding blockchain programming in Python, and basic Javascript (both of which I am working at every day), having a database ready to accept users is a priority. I will work on it as long as it takes. 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/76_Login.html]
