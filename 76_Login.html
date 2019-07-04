@@ -1,0 +1,25 @@
+{% extends "forest/base.html" %}
+
+
+{% block content %}
+<div id='home_container'
+    
+    <div id="login">
+    <h1>Login</h1>
+    
+    <label>Username:<br/></label>
+    <input name="username" type="text" required="required"><br/>
+    
+    <label>Password:</label></br></label>
+    <input name="password" type="password" required="required"><br/>
+    <form method="post">
+        {% csrf_token %}
+        {{ form.as_p }}
+        <button type="submit">Login</button>
+     </form>
+     </div>   
+    </form>
+    
+</div>
+</div>
+{% endblock content%}
