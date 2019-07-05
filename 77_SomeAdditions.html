@@ -1,0 +1,39 @@
+{% load static %}
+
+<head>
+    <link rel="stylesheet" href="{% static 'forest/styles.css' %}" type="text/css"
+    
+    <meta charset="utf-8">
+
+    <link href="jQueryAssets/jquery.ui.core.min.css" rel="stylesheet" type="text/css">
+    <link href="jQueryAssets/jquery.ui.theme.min.css" rel="stylesheet" type="text/css">
+    <link href="jQueryAssets/jquery.ui.button.min.css" rel="stylesheet" type="text/css">
+    <script src="jQueryAssets/jquery-1.11.1.min.js"></script>
+    <script src="jQueryAssets/jquery.ui-1.10.4.button.min.js"></script>
+</head>
+
+
+<body bgcolor= white vlink="#AD18A3" alink="#11AED5">
+
+    <a href="{% url 'forest:index' %}"><div id="logo"></div></a>
+
+    <a href="assets/Thailand.png"><div id="flagsTH"></div></a>
+    <a href="assets/Spain.png"><div id="flagsES"></div></a>
+    <a href="{% url 'forest:index' %}"><div id="flagsUK"></div></a>
+
+
+	<ul>
+        <li><a href="{% url 'forest:menu_1' %}" title="Blockchain-Enabled Security">Secure</a></li>
+  		<li><a href="{% url 'forest:menu_2' %}" title="A Perfect Business-to-Business Solution">B2B</a></li>
+  		<li><a href="{% url 'forest:menu_3' %}" title="What is Barter...And Why?">What is Barter?</a></li>
+  		<li><a href="{% url 'forest:menu_4' %}" title="Starting Out in Life of Business or Both">Start That Business</a></li>
+  		<li><a href="{% url 'forest:menu_5' %}" title="Barter for Services Too">Trade Services</a></li>
+        <li><a href="{% url 'forest:menu_6' %}" title="Browse Our Site">Browse</a></li>
+  		<li><a href="{% url 'forest:menu_7' %}" title="Become a Free Member">Sign Up</a></li>
+        <li><a href="{% url 'forest:menu_8' %}" title="Login">Login</a></li>
+    </ul>
+	
+    {% block content %}{% endblock content %}
+
+    <footer id="footer">Copyright 2019 Riceforest</footer>	
+</body>
