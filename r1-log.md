@@ -585,3 +585,10 @@ Today's Progress**: I worked on some Python code as well as some Django injectio
 Thoughts: I wanted to be able to create standard user accounts today and I didn't hit that goal. Other than my other goals, better understanding blockchain programming in Python, and basic Javascript (both of which I am working at every day), having a database ready to accept users is a priority. I will work on it as long as it takes. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/76_Login.html]
+
+## R1D77
+Today's Progress**: I worked with forms again, this time adding a 'forms.py' file directly to my app directory but still did not get operational results. I learned the 'CSS height: auto' property which helped me align my content within the containers better on anything that is not my homepage (my homepage uses a different template for limited space). I also learned the 'display: flex' property so that I can keep the li tags at the top from switching around when a web browser is made smaller. I cleaned up all the CSS and Html in my project so that all the indentations are set evenly, so that adding code will be easier as I start to build the project further. 
+
+Thoughts: I am glad I took this day to clean up and refactor some of my CSS and Html but am disappointed that I did not get the Django forms working. However, in my prototype timeline my webdesign should be finished well before my database management system so I am still on schedule. I feel like the skills I am learning by making mistakes in Django will ease my implementation for future Python Django code in the future. Lessons well-learned!
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/77_SomeAdditions.html]
