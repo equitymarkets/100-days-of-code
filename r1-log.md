@@ -592,3 +592,11 @@ Today's Progress**: I worked with forms again, this time adding a 'forms.py' fil
 Thoughts: I am glad I took this day to clean up and refactor some of my CSS and Html but am disappointed that I did not get the Django forms working. However, in my prototype timeline my webdesign should be finished well before my database management system so I am still on schedule. I feel like the skills I am learning by making mistakes in Django will ease my implementation for future Python Django code in the future. Lessons well-learned!
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/77_SomeAdditions.html]
+
+## R1D78
+
+Today's Progress**: I learned how to make multiple apps in a Django project work together smoothly. I finally made a successful user submission (new user) form in Django. I learned the lesson that we use a virtual environment because Python changes so often (hence all of my problems getting the correct information to do this task). I learned that the {{}} is used to output data. I also feel I gained a lot of experience in the past 5 days just getting this to work. I am glad I am logging all my journals on this page also, because once I learn this framework I want to build additional sites with it. 
+
+Thoughts: I have not felt a sense of achievement yet in this challenge as the one I did today. That sense of achievement came when I successfully added my first user (first try) on my daily 100 Days of Code Twitter video. I added my newborn daughter, who is the inspiration for me improving myself by undertaking this 100 Days of Code challenge. When I clicked on the admin panel, and saw her name, I really felt good. This might be a small achievement for many, but today was an exciting day to finally put the last 5 days of trial and error to rest for a good result. Even though it started out like any other, worried about not getting this to work, I worked through it after the hour was up, on and on, because it is my one night that I don't have to get up early the next day. (I don't have to work tomorrow until 2:30 pm.) I am so glad I did that. Tomorrow I can rest assured that I have a working interactive database and now I can do some CSS improvements to the new user page. 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/78_CorrectViews.py]
