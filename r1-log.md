@@ -600,3 +600,11 @@ Today's Progress**: I learned how to make multiple apps in a Django project work
 Thoughts: I have not felt a sense of achievement yet in this challenge as the one I did today. That sense of achievement came when I successfully added my first user (first try) on my daily 100 Days of Code Twitter video. I added my newborn daughter, who is the inspiration for me improving myself by undertaking this 100 Days of Code challenge. When I clicked on the admin panel, and saw her name, I really felt good. This might be a small achievement for many, but today was an exciting day to finally put the last 5 days of trial and error to rest for a good result. Even though it started out like any other, worried about not getting this to work, I worked through it after the hour was up, on and on, because it is my one night that I don't have to get up early the next day. (I don't have to work tomorrow until 2:30 pm.) I am so glad I did that. Tomorrow I can rest assured that I have a working interactive database and now I can do some CSS improvements to the new user page. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/78_CorrectViews.py]
+
+## R1D79
+
+Today's Progress**: I made a login page in Django, succesfully logged in as a user from the frontend, worked on dynamic Html and CSS (including adding a metatag in the head, some Html dynamic concepts, and the @media CSS tag). I learned more about Javascript today as well. 
+
+Thoughts: I am happy that I have a user-capable database now, with the capacity to login, even though logins don't really do anything yet. In the near future I need to start building the actual functionality of the barter engine. I am very excited to get everything running. 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/79_NewSignup.html]
