@@ -608,3 +608,11 @@ Today's Progress**: I made a login page in Django, succesfully logged in as a us
 Thoughts: I am happy that I have a user-capable database now, with the capacity to login, even though logins don't really do anything yet. In the near future I need to start building the actual functionality of the barter engine. I am very excited to get everything running. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/79_NewSignup.html]
+
+## R1D80
+
+Today's Progress**: Today I successfully traced back a few Django backend errors-still not able to get the blog up and running however. I now want to change gears a bit and just set everything up in another app (since I have already set up a second one). I know everything can be done because I have done this. I just am having a problem having two different base files (still different names of course). I also worked a bit on my home page, playing around with some html and learning a little bit about the <optgroup> tag which places a heading over your menu items in a list dropdown.  
+
+Thoughts: I've been told that I am going to need more javascript to most efficiently do what I am trying to do, and I know that I do. In fact, I don't think my html and CSS skills are up to par either, so I have a lot of work to do in the last twenty days of 100 Days of Code. What has started out as an adventure in Python has evolved into something incorporating Python with many other different languages that I need to know more about. I do best when the learning curve is high though, and I will stay on this until it is finished, even if project completion comes during my second round of 100 Days. 
+
+Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/80_ViewsNew.py]
