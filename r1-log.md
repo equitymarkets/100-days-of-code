@@ -15,7 +15,7 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/1
 
 Today's Progress**: Today I learned how to use .append() function, which will add an element to the end of a list, the import directive, which is used to bring in modules, and negative index numbers in a list, which can be used to reference indexes starting from the end of the list (index -1), rather than the beginning. Today's topic, "About Python", I intended to take a deeper dive into how and where Python is used, while learning some basic functions as well. With the "import this" directive, the console loads "The Zen of Python" by Tim Peters, a prose relating to the mission of the Python language. At the end of the program, I import "antigravity", which loads a browser and takes us to a Python comic site. 
 
-Thoughts: I am enjoying Python so far. Although small pieces of code seem to take a long time because I need to look things up, once I do it once or twice it is very intuitive. With a basic understanding of the basics of computer programming, I should only need to look things up one time. While Python is very new to me, many methods are similar to other languages. 
+Thoughts: I am enjoying Python so far. Although small pieces of code seem to take a long time because I need to look things up, once I do it once or twice it is very intuitive. With a basic understanding of computer programming, I should only need to look things up one time. While Python is very new to me, many methods are similar to other languages. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/2_Python.py]
 
