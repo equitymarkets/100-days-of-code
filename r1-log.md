@@ -616,3 +616,138 @@ Today's Progress**: Today I successfully traced back a few Django backend errors
 Thoughts: I've been told that I am going to need more javascript to most efficiently do what I am trying to do, and I know that I do. In fact, I don't think my html and CSS skills are up to par either, so I have a lot of work to do in the last twenty days of 100 Days of Code. What has started out as an adventure in Python has evolved into something incorporating Python with many other different languages that I need to know more about. I do best when the learning curve is high though, and I will stay on this until it is finished, even if project completion comes during my second round of 100 Days. 
 
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/80_ViewsNew.py]
+
+### R1D81 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D82 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D83 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D84 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D85 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D86 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D87 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D88 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D89 
+Today's Progress**:  
+
+Thoughts: 
+
+
+
+### R1D90 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D91 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D92 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D93 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+
+### R1D94 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D95 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D96 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
+
+
+### R1D97 
+Today's Progress**:  
+
+Thoughts: 
+
+Link to work:** []
