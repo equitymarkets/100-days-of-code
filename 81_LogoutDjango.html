@@ -1,0 +1,8 @@
+<!--Day 81: Logout works fine, used it one time then got a csrf error in the system when I tried to log back in-->
+
+<li>
+            <form class="logout-link" action="{% url 'accounts:logout' %}" method="post"
+                {% csrf_token %}
+                <!--<button type="submit">Logout</button></form>-->
+                <a href="{% url 'forest:index' %}" title="Logout">Logout</a>
+</li>
