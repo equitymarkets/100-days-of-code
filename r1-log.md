@@ -618,11 +618,11 @@ Thoughts: I've been told that I am going to need more javascript to most efficie
 Link to work**:[https://github.com/equitymarkets/100-days-of-code/blob/master/80_ViewsNew.py]
 
 ### R1D81 
-Today's Progress**:  
+Today's Progress**: I created a user logout page with all necessary Django dependencies and successfully logged out a user. Unfortunately, I got a csrf token error when I went to log in a user again. I think this is a minor issue. I also worked in CSS select boxes and examined my admin blog problem, which is now bigger than it was before because some of the words I have changed.  
 
-Thoughts: 
+Thoughts: I continued this project in Django because I wanted to continue my Python journey. I find the process to be somewhat complicated, solving one issue to simply create another one. I do have to consider that most opinions about the Python backend are good, and that a big part of the problem is that I still don't fully understand everything that is going on here, and every day I get on and work with it, and that to me, is worth it, whether I choose to use Django in the long-run or not. I have learned a whole lot about basic computer science by successfully solving some of the little riddles to get Django working correctly. I am also quicker in Windows which helps me in my current job of teaching basic web design to middle-schoolers. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/81_LogoutDjango.html]
 
 
 ### R1D82 
