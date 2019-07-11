@@ -626,11 +626,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D82 
-Today's Progress**:  
+Today's Progress**: Today I learned and added some new CSS properties to the site-mostly as placeholder content to get an idea of what I want the engine to do and how to present it. The -appearance: none property (along with browser specific prefixes of webkit, moz, o, or ms) will take away browser defaults in the select boxes. I also learned about the em units in CSS-set to the last parent size (or some other default if no parent). I don't know everything about it yet, but it improved the look of the text on my site. I also used border-radius to get rounded edges. 
 
-Thoughts: 
+Thoughts: I'm not sure if I want use border radius on the site. They look good now, as a change, but in the next few days I will decide whether sharp or rounded corners look beter, and/or for which windows. I like that I have finally filled up the homepage, even if it is neither dynamic nor operational yet. I have a rough idea of what I want this site to look like-it is simplistic by nature, so I don't want to spend much time trying to make it pretty-I just want it to be resource-light for any bandwidth. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/82_NewCSS.css]
 
 
 ### R1D83 
