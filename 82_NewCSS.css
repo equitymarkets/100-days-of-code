@@ -1,0 +1,21 @@
+select {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -o-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    border: 2px solid #5C8DBB;
+    height: 52px;
+    padding: 10px 0px 10px 10px;
+    color: black;
+    border-radius: 6px;
+    font-size: 1em;
+}
+input {
+    width: 100%;
+    border: 2px solid #5C8DBB;
+    height: 52px;
+    color: black;
+    border-radius: 6px;
+    font-size: 1em;
+}
