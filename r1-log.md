@@ -634,11 +634,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D83 
-Today's Progress**:  
+Today's Progress**:  I spent a few hours learning the framework a bit better-all of the supporting .py files and how they interact with the html via Django's markup language. Then I went in and fixed my blog page-it still isnt completely functional because I feel I will have a better handle on the last part of it after a night of rest. It's further along than it was before I broke it, however. I learned the importance of starting new apps in Django instead of writing to existing ones. The only reason I didn't do that for this one (and I may in the future) was because I did not want to risk losing the blog entries that I have already made. I know that for a more experienced developer this would not be any problem, but the satisfaction of going in and fixing something that I had broken and making it better taught me more than just starting a new app. As I develop, I may take that on as a mini-project-migrating everything to a separate app. The blog, however, isn't a big part of the project. Lesson learned. I also learned more about applying the for operator in Django's markup language. The logic of it will help me in the near future when I start to work with user-input. 
 
-Thoughts: 
+Thoughts: Today brought another sense of accomplishment with little front-end beauty to show for it. Fixing that blog, even though it would have been quicker to just redo it in a new app, gave me the feeling that I broke something and then fixed it again. This is what I need to do to become a better developer and learn the Django framework at a deeper level. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/83_FixedViews.py]
 
 
 ### R1D84 
