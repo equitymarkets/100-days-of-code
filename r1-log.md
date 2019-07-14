@@ -642,11 +642,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D84 
-Today's Progress**:  
+Today's Progress**:  Today I successfully implemented the timestamp into the blog portion of my website. While it is an internal thing, I now have more experience troubleshooting Django source files. I also worked on my Login issue and learned why variables and attributes in a function of a large project really need to relate and be simple to comprehend for another pair of eyes, or even the original developer's eyes a month later. If code is written cleanly, a lot of comments will not be needed, and comments don't fix errors when you don't know where the error is. If attributes and variables are written correctly, or using good logic, maybe an error will never be made in the first place. 
 
-Thoughts: 
+Thoughts: Yesterday I watched tutorials and did some Python Django code but didn't count the day since I didn't produce anything of substance. I am happy to get the time stamp on the blog working. This is a small step but has improved my ability to fix things in a program (instead of just deleting everything and starting over). Once I am a developer working on real projects, I will not be able to just delete everything and start over. This project now has some work behind it, and it would be a shame to accidentally delete a file and really have to start the whole project over. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/84_CorrectedHtmlGoal.html]
 
 
 ### R1D85 
