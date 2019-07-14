@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>Goal Page</title>
+</head>
+<body>
+    <p>Goal: {{ goal }}</p>
+
+    <p>Entries:</p>
+
+    <ul>
+        {% for description in descriptions %}
+            <li>
+               <p>{{ description.date_added|date:'M d, Y H:i' }}</p>
+               <p>{{ description.text|linebreaks }}</p>
+            </li> 
+        {% empty %}
+            <li>
+                There are no entries for this topic yet. 
+            </li>
+        {% endfor %}
+    </ul>
+
+
+
+
+</body>
+</html>
