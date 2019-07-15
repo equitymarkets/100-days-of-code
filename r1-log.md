@@ -650,11 +650,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D85 
-Today's Progress**:  
+Today's Progress**:  Today I created user output (returning username) to the website with the {{ request.user }} Django template tag. I also learned about *args and **kwargs and their ability to take a variable-length list of arguments. I also learned to create, and create content within, a page without using an HTML document with urls.py and views.py. It's a simple task with little application but the idea of it helps one to understand this framework. I am going to practice doing this in different forms. 
 
-Thoughts: 
+Thoughts: Maybe I have said this before, but it is great to start "getting" Django. Maybe I have had a few of these moments, and there is no beautiful work yet, but today I went a step closer to using the interaction between the files, and between the Django server and the frontend, to create a URL without an HTML page by using a Python string. I am not sure this has much of an applied use, but it is nice to see how it works in order to understand other things in the future. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/85_AdditionstoProject.py]
 
 
 ### R1D86 
