@@ -658,11 +658,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D86 
-Today's Progress**:  
+Today's Progress**:  I learned about the GIL, or global interpreter lock, a mechanism which restricts an interpreter to restrict thread execution so that only one native thread can execute at a time. I learned about what CPython actually is, which is 1. a compiler to convert Python to bytecode, 2. a VM, or virtual machine, to run bytecode, and 3. a C interface to interact with the VM. When a user types 'python' into the command prompt, it is CPython that is doing the work to load the environment. I also learned about redirects from my login page and default templates from DIR in the TEMPLATES section of settings.py. 
 
-Thoughts: 
+Thoughts: I only kept a couple lines of code today, one of which I believe will even be productive. I did, however, learn a lot about CPython and what it actually is. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/86_ChangesToSettings.py]
 
 
 ### R1D87 
