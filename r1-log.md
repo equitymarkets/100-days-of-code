@@ -666,11 +666,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D87 
-Today's Progress**:  
+Today's Progress**: Today I learned more about CPython, which essentially covers the basics of what Python is actually doing right down to the core C commands that Python is actually running. Understanding it seems to be a must for core developers, but it seems like even the lectures contain a lot of "I don't know" and "I'll have to check that" answers to questions which tells me it is a very complex topic. I learned about visualizing modules as simploy .py files (maybe obvious to those with an extensive CS background but I really hadn't thought about it in such simple terms even though I knew what I was doing when I imported them). I also worked with one of my own modules, the Fibonacci sequence from Day 3. 
 
-Thoughts: 
+Thoughts: I'm glad I can continue and add on to my earlier work. This is the value in the 100 Days of Code challenge combined with  little organization. My comments probably seem obvious to some-it's hard to believe I only half-knew what I was doing every time I would do an import. Now I am chaining together variables from the different modules that I have written. Simple baby steps today, but such an enlightening bit of work! The work with Django and Pandas, specifically, have taught me more about working across files, not just in one .py file or importing stuff that others have written and included in the library. I am happy to finally get this idea. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/87_RefactoringAndCallingFibSequence.py]
 
 
 ### R1D88 
