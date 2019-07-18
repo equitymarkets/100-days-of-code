@@ -674,11 +674,12 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D88 
-Today's Progress**:  
+Today's Progress**:  Today before coding I watched more lectures in the CPython 10-hour series that I have been watching in the last few days. I learned about the open() and read() functions that can be used to view the contents of a Python file. I also further learned about importing files and writing functions in those modules-I fixed the function to do what I wanted today, imported the contents, and plotted the quotients of the last two numbers using several upper limits. I was surprised that the quotient actually went up and down. 
 
-Thoughts: 
+Thoughts: Day by day, I am getting much more fluent in using multiple files and programs at once. On my Twitter video I imported my Day 3 work (now written as a function), arranged the data, used matplotlib to plot the points, then opened the command prompt and read the Fib.py file. These are the kinds of things I aimed for during my 100 Days of Code. I am happy so far. I also learned some HTML today, wrote the file up in Notepad (to practice without Intellisense) and then opened the file with Firefox. It worked the first time!
 
-Link to work:** []
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/88_FibonacciPt3.py]
 
 
 ### R1D89 
