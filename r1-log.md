@@ -683,11 +683,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/8
 
 
 ### R1D89 
-Today's Progress**: I concluded an overview of CPython and the inner-working of the language we know as Python. This dive has taught me a lot about what Python actually is, and why it is slower than other languages. 
+Today's Progress**: I concluded an overview of CPython and the inner-working of the language we know as Python. This dive has taught me a lot about what Python actually is, and why it is slower than other languages. I learned the disassemble command from the prompt, which takes a program and shows the compiled bytecode. I also used many new functions for examining data, including dir(var) to see all possible operations on the object, type(var) to see the type of the variable, id(var) to see the unique (random) number assigned to the object in memory, and oct(int) to show the base 8 representation of an int variable. 
 
 Thoughts: I really think that 100 Days of Code tests one's time management ability. I have dealt with time management issues before and have learned to prioritize and work through things as they are necessary, so maybe my time management skills are better than some people's, but they are still not perfect. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/89_CPythonOverview.py]
 
 ### R1D90 
 Today's Progress**:  
