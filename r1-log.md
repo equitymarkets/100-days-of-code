@@ -690,11 +690,11 @@ Thoughts: I really think that 100 Days of Code tests one's time management abili
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/89_CPythonOverview.py]
 
 ### R1D90 
-Today's Progress**:  
+Today's Progress**:  I learned about the URL dispatcher to map URL paths to views. I also dove into some CSS and learned about the selector (HTML tag to initiate CSS) and the declaration (the property and value). This leads into the fact that there are three main types of CSS: that which is local to the current HTML tag, known as Inline, that which is global in the document, specified in the <head> tagand known as Internal, and that which is universal to the webpage and written in a .css file, which is known as External. 
 
-Thoughts: 
+Thoughts: I didn't bring my computer to work today so when I finally got home, it was pretty late. I decided to delete and rebuild the accounts app. While I know it is good experience to delete and rebuild stuff, I try to never just start over on something. Well, now I am left with an even bigger mess than before. I hope to be able to dedicate an entire day to cleaning up this project so far soon. Although it is frustrating, I know this is how to learn it. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/90_URLSproblem.py]
 
 
 ### R1D91 
