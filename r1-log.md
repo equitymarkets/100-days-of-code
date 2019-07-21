@@ -698,7 +698,7 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D91 
-Today's Progress**:  
+Today's Progress**: Today I deleted the accounts app from my project (again). At least I still have a project to work with.  
 
 Thoughts: 
 
