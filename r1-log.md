@@ -698,11 +698,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D91 
-Today's Progress**: Today I deleted the accounts app from my project (again). At least I still have a project to work with.  
+Today's Progress**: Today I deleted the accounts app from my project (again). At least I still have a project to work with. That also took some time to get that working though. I deleted every footprint from the project in order for the runserver commannd to even work again. I ran into the ' ' is not a registered namespace, and the way to fix that was to delete an obsolete Django injection from an old piece of commented out html code. I ran into a reverse match error, and to fix that I have to go through almost all the html files to find one backlink to an obsolete views file. In all, I deleted one entire app directory and information from AT LEAST to urls.py files, two views.py files, the settings.py app declaration, and several html documents. I also started using the CSS button description and explored input[type=text] vs input[type=submit]. I didn't get that working like I wanted, but I was able to segregate a register button from the standard blue default buttons higher up on the page by actually specifying a button type and changing it from "input" to "button". 
 
-Thoughts: 
+Thoughts: I feel somehow satisfied. I ran into a ton of errors and fixed them. After one hour of troubleshooting, I wanted something to show visually for today so I played with some HTML and CSS, cleaning up the bottom left corner of my homepage. So, even though my accounts app isn't working yet, I am ready to start fresh, and with a better home page and a lot more Django experience to work with. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/91_CSSbuttonforRegistration.css]
 
 
 ### R1D92 
