@@ -706,11 +706,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D92 
-Today's Progress**:  
+Today's Progress**: Today I overcame the "NameError: name 'path' is not defined" error. It shouldn't have taken me so long to figure out that I was not importing path. Of course, the main URLS.py file had this so I should have at least just tried it. Next time if I hit this error I will have some idea of what is going on and I will be able to remedy it much faster. I also had another Django html injection problem-when I was trying to import my base.html page, I only wrote {% 'base.html' %} but I needed to provide 'forest/' in front of the html file because it is in another directory. This was something I learned while learning Jupyter earlier in this challenge, so I was able to remedy it pretty quickly. 
 
-Thoughts: 
+Thoughts: I see now part of the reason why I had so many problems getting to the bottom of this problem. When dealing with Python and Django, one must be aware of the differences across versions of both and operating systems as well. I have not found any online how-to guides that fully describe how to do a task on my machine using my environment. It does teach one a lot about the big picture though. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/92_AcctLoginFix.py]
 
 
 ### R1D93 
