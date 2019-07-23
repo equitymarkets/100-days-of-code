@@ -716,9 +716,9 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D93 
-Today's Progress**:  
+Today's Progress**: Today I finished Django Milestone Number 4: the account system. I can separate my learning in Django to four big achievements: 1. setting up the virtual environment, 2. correctly setting a static library for CSS and JS files, 3. making an admin blog page, and 4. finishing my accounts app. I encountered many errors but I finally got it working in my environment. I created a new user, logged it in, logged out, logged in an existing user, and logged out again. Today was a success for me.  
 
-Thoughts: 
+Thoughts: When I look back on what I have done so far during 100 Days of Code I feel pretty good. I have used Python in several environments, including IDLE, Geany, Visual Studio, Jupyter Notebook, PowerShell, and even directly from the Command Prompt. I solved several well-known CS riddles, including Monty Hall and Towers of Hanoi. I coded five sorting algorithms and one search algorithm. I explored several data science libraries including MatplotLib, Pandas, Numpy, and Seaborn, and coded several visualizations including some CS, financial, and economic data, my AI advancement theory being but one of them. And I have used Django to work on a project that I plan to take live soon. I don't know how long it will be until I do 100 Days of Code again after this, but I think I will return soon. I definitely have been introduced to a like-minded community on Twitter. That is a very positive thing. 
 
 Link to work:** []
 
