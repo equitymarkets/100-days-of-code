@@ -725,9 +725,9 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D94 
-Today's Progress**:  
+Today's Progress**: Today I did some prototyping as related to the actual flow of user input data; thinking and writing out what exactly needs to go where. I initiated a new app called trade, and I wrote two models (which are subject to change) to eventually create a trade list and a wishlist. I reviewed Get and Post requests; it seems that most Django projects simply use these two requests, although a sophisticated API may use more. I encountered the error "NameError: Name "model" is not defined". My fix was to go back in and notice that I had typed (models, Model) instead of (models.Model) in the parameters for both of the new models.   
 
-Thoughts: 
+Thoughts: I am now flowing slow. Errors take less time to remedy, and although I do not always know what to type and where, I know where to easily find it. Realistically, I think that 100 Days of Code (so far) has lifted me from about a 2 out of 10 in Python functionality (completely new to Python but not to coding) to a solid 3 and hopefully a 4 by the time the challenge is finished. Now since I have a couple projects going and am in the habit, I will continue to code and perhaps start another round in a few weeks after it ends. 
 
 Link to work:** []
 
