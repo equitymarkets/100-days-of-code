@@ -729,7 +729,7 @@ Today's Progress**: Today I did some prototyping as related to the actual flow o
 
 Thoughts: I am now flowing slow. Errors take less time to remedy, and although I do not always know what to type and where, I know where to easily find it. Realistically, I think that 100 Days of Code (so far) has lifted me from about a 2 out of 10 in Python functionality (completely new to Python but not to coding) to a solid 3 and hopefully a 4 by the time the challenge is finished. Now since I have a couple projects going and am in the habit, I will continue to code and perhaps start another round in a few weeks after it ends. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/94_TradeModels.py]
 
 
 ### R1D95 
