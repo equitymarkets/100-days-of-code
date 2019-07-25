@@ -733,11 +733,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D95 
-Today's Progress**:  
+Today's Progress**:  I created my first forms.py file in Django and laid out a method that I plan to use for saving user input. I learned about Django widgets, objects that allow one to write code in Python and render it in HTML. This is kind of why I have and plan to spend the better half of my first 100 Days of Code using Django. 
 
-Thoughts: 
+Thoughts: I feel like I am very close to a moment of clarity in understanding Python, and in particular, Django, because I now feel comfortable writing code that I know might break the program with the confidence that I can always go back and clear out the new stuff without damaging the old. That is because I understand, for the most part, what is going on, even if I don't yet know how everything really works in every circumstance. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/95_Formsandviews.py]
 
 
 ### R1D96 
