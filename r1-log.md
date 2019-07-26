@@ -741,11 +741,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D96 
-Today's Progress**:  
+Today's Progress**:  I deleted the new trades app because I started thinking that most of what I was doing would be better served inside the original forest app. I saved some of the code in a file called dump.py just so I will have it (I also have a dump.html file). I encountered the error "__init__ takes 1 positional argument but 2 were given" by adding .as_view() onto the end of my URL declaration. I learned about changing a method to a class, which was pretty straightforward. I also learned about and defined GET and POST requests as functions within my new Index_view class. 
 
-Thoughts: 
+Thoughts: I half succeeded in what I have been trying to do the last two days. I consider this milestone 5 (while still unfinished) in Django, and looking at it from that angle, things are going pretty well. I am making get and post requests to the site and doing everything I wanted to do error-free, but the flow is awkward. I also have decided that I will prioritize backend Django stuff now and not worry too much about the beauty of the site, then take care of that later on or on Python break days. Perhaps I will work on HTML/CSS/JS when Round 1 of 100 Days of Code ends, but I think I will be ready for Round 2 in a few weeks or less. I want to introduce this new site on 100 Days of Code and to my webdesign class at the school I work at the same time. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/96_NewIndexClass.py]
 
 
 ### R1D97 
