@@ -750,8 +750,8 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 
 ### R1D97 
-Today's Progress**:  
+Today's Progress**: I worked in Python, HTML, and PowerShell today. I learned the "type(var)" command to see the type of any variable from the shell (e.g. tuple, int, dict, list, str). I learned about the Form View and the Create, or Generic, View, but I didn't learn all I need to know. This is a subject for further study because I need multiple forms to be fired on my homepage and Form View seems to support only one normally. I learned to save to a database and a way to view them from the shell buy calling Class.models.all(). I learned that you can set one variable up as a tuple (e.g. if you wanted to later add more elements to the array) by typing an empty comma after it, like "x = (5,)". 
 
-Thoughts: I have three days off due to a long weekend here in Thailand. I want to get as far along as I can in my project and clean up my github log and submissions in this spare time, since I am now nearing the end of the challenge. 
+Thoughts: I have three days off due to a long weekend here in Thailand. I want to get as far along as I can in my project and clean up my github log and submissions in this spare time, since I am now nearing the end of the challenge. I made progress today and I am not finished yet for the day. 
 
 Link to work:** []
