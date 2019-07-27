@@ -754,4 +754,4 @@ Today's Progress**: I worked in Python, HTML, and PowerShell today. I learned th
 
 Thoughts: I have three days off due to a long weekend here in Thailand. I want to get as far along as I can in my project and clean up my github log and submissions in this spare time, since I am now nearing the end of the challenge. I made progress today and I am not finished yet for the day. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/97_DatabaseModel.py]
