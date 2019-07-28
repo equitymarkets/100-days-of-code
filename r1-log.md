@@ -191,7 +191,7 @@ Thoughts: As usual, I learned a lot. I added to my tap code program but now as i
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/24_Refactoring.py]
 
-
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ### R1D25
 
 Today's Progress**: Today I extracted and imported matplotlib for use in my application. I learned a new useful Python function, quit(), that can be used to get back to the standard command prompt when running Python from the command line. Moreover, I learned a lot about the Matplotlib package for Python, including basic functions used to create a line chart, bar chart, histogram, and scatter plot.  
