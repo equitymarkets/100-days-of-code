@@ -760,3 +760,10 @@ Today's Progress**: I worked in Python, HTML, and PowerShell today. I learned th
 Thoughts: I have three days off due to a long weekend here in Thailand. I want to get as far along as I can in my project and clean up my github log and submissions in this spare time, since I am now nearing the end of the challenge. I made progress today and I am not finished yet for the day. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/97_DatabaseModel.py]
+
+### R1D98 
+Today's Progress**: I worked on some CSS, wrapped Days 1-49 in a user-defined while loop, and worked in Django. Unfortunately, I really screwed up the accounts system, which was working perfectly before. After 50 days, I am questioning whether Django is really for me. I need to maybe drill down on some basics. I did get into some theory today, learning about the wsgi.py file as the first thing the server views upon initialization. I think maybe after Round 1 of 100 Days of Code I'm going to work on some basic Django tutorials and read into some theory, as well as compare it to my existing project. If it isn't clearing up within a few more weeks I am going to have to find a different approach for this project.  
+
+Thoughts: On my second day off from work, I learned a great deal but went backwards on my main project. On the last days of 100 Days of Code I may just refactor some of my data visualizations and console apps to package them in one user-friendly console application in a new Github Repo. 
+
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/98_Additions.py]
