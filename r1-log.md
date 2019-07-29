@@ -245,32 +245,32 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equityma
 
 ### R1D31
 
-Today's Progress**: I worked with Jupyter notebook again but could not get it to do basic things like importing data. I will return to it tomorrow. Earlier today I did familiarize myself with the PEP 8 Style Guide for Python. I will put these principles into practice as I learn and create with Python. I did learn the .head(), .tail(), and .loc[''] functions. I also learned importing with .read.csv(''). 
+Today's Progress**: I worked with Jupyter notebook again but could not get it to do basic things like importing data. I will return to it tomorrow. I have found that most technical issues come within a few days for me-while I could stare at something trying to get it to work for hours, I am better off looking at something for 15-20 minutes a day and by the third or fourth day it comes. Earlier today I did familiarize myself with the PEP 8 Style Guide for Python. I will put these principles into practice as I learn and create with Python. I did learn the .head(), .tail(), and .loc[''] functions. I also learned importing with .read.csv(''). 
 
-Thoughts: I didn't get done as much as I would of liked. I spent a long time messing with Jupyter Notebook but I was not able to get it to do what I wanted. I will learn it. I may have to configure something-I am not sure. I did learn a little about JSON and plenty of new Python methods (see above). 
+Thoughts: I didn't get done as much as I would of liked. I spent a long time messing with Jupyter Notebook but I was not able to get it to do what I wanted. I will learn it. I may have to configure something-I am not sure. I did learn a little about JSON and plenty of new Python methods. Jupyter files do not work with a .py extension, but instead work with an .ipynb extension, JSON scripting with Python injections.  
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/31_PokemonSpreadsheet.py]
 
 ### R1D32
 
-Today's Progress**: Today I looked back at a few of the things that I have intended to catch-up on. I solidified my understanding of definite vs. indefinite iteration. In a definite iteration, the terminal value of an iterator is known and the program repeats until that number is reached. An example of this is a for loop. A for loop specifies the amount of times the program will iterate. In an indefinite iteration, the program repeats until a value is true. An example of this is a while loop. The function does not know how long it will have to iterate, it only knows when it has reached the value, which is when it stops. I also finally learned how to navigate the Jupyter notebook. It seems I was saving as .py right in the beginning. By leaving the file open and letting the Notebook auto-save, I was able to see the .ipynb extension. I learned a few new methods and tools in Python, including .info() to get metadata about the dataframe, .shape to see the size of it in cells, .drop_duplicates() to get rid of duplicate values, and iloc[:] which warrants further understanding.  
+Today's Progress**: Today I looked back at a few of the things that I have intended to catch-up on. I solidified my understanding of definite vs. indefinite iteration. In a definite iteration, the terminal value of an iterator is known and the program repeats until that number is reached. An example of this is a for loop. A for loop specifies the amount of times the program will iterate. In an indefinite iteration, the program repeats until a value is true. An example of this is a while loop. The function does not know how long it will have to iterate, it only knows when it has reached the value, which is when it stops. I also finally learned how to navigate the Jupyter notebook. This was my major milestone for the day. It seems I was saving as .py right in the beginning. By leaving the file open and letting the Notebook auto-save, I was able to see the .ipynb extension. I learned a few new methods and tools in Python, including .info() to get metadata about the dataframe, .shape to see the size of it in cells, .drop_duplicates() to get rid of duplicate values, and iloc[:] which warrants further study.  
 
-Thoughts: I am glad that after three days I finally got Jupyter Notebook working. I stayed on it because I knew the problem was something small. I do not know if I will continue using it for the duration of 100 Days of Code but I may stick with it during my work in Pandas. At this point I want to get a working understanding of the Pandas module so I may be working with it for a while until I can do basic visualizations with it. Tomorrow I plan to continue my work from today on the coffee shop sales model. 
+Thoughts: I am glad that after three days I finally got Jupyter Notebook working. I stayed on it because I knew the problem was something small. I do not know if I will continue using it for the duration of 100 Days of Code but I may stick with it during my work in Pandas. At this point I want to get a working understanding of the Pandas module so I may be working with it for a while until I can do basic visualizations with it. Tomorrow I plan to continue my work from today on the coffee shop sales model. I need to get the chart working. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/32_PandasMatplotlibCoffeeShop.py]
 
 ### R1D33
 
-Today's Progress**: Today I learned about calling the data from the spreadsheet by filename.columnnumber. One of the methods that I learned was the type(filename.columnnumber) to find out about the csv data. I also learned to plot a chart using that protocol. I learned about the hlines() function and all of its parameters. It is useful for showing a breakeven point, or, in the case of this graph, closing time when our profits do not exceed a reasonable value. 
+Today's Progress**: Today I learned about calling the data from the spreadsheet by filename.columnnumber. One of the methods that I learned was the type(filename.columnnumber) to find out about the csv data. I also learned to plot a chart using that protocol. I learned about the hlines() function and all of its parameters. It is useful for showing a breakeven point, or, in the case of this graph, closing time when our profits do not exceed a reasonable value. This is really a simplified model of something that a business might use to make an economic decision. I can see where Pandas could be a useful tool for decision sciences in consulting. 
 
 Thoughts: The kids at my school come back tomorrow and I am supposed to be working three shifts so that will still give me time to continue this challenge, but I might not have as much time as before. I wanted to get about 30 days in before full-time hours start again and I was able to do that. I really have a good basic understanding of Python and a few of its modules now. Now I will be able to focus, albeit with a little less time on my hands. I've come a long way in a month-learning all about the shell, IDLE, Geany, and Jupyter, learning about while loops, for loops, and if statements, doing sorts and searches, and learning a little about Matplotlib, Pandas, and Numpy. If the next month is half as productive as the last, I will be happy, but I think it will be more. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/33_PythonCoffeeShop.py]
 
 ### R1D34
-Today's Progress**: I learned about the show_versions() method, as well as some lingo-the octet is 8 bits, or a byte; and a nibble is 4 bits and takes up one hex digit. I learned about memory addresses, which use hexadecimal notation so that they are easier to convert to binary from human eyes (than base 10), but not as long or difficult to figure out as binary. 
+Today's Progress**: I learned about the show_versions() method, as well as some lingo-the octet is 8 bits, or a byte; and a nibble is 4 bits and takes up one hex digit. That all was my biggest milestone, since I really didn't get much accomplished in terms of final work. I learned about memory addresses, which use hexadecimal notation so that they are easier to convert to binary from human eyes (than base 10), still a power of 2 (unlike base 10), but not as long or difficult to figure out as binary. 
 
-Thoughts: Today I got caught up on this. It's new, as I haven't actually done a chart directly from Pandas nor with the dictionay indexing so I figure it will take a while to figure out. I am sure tomorrow it will make perfect sense. 
+Thoughts: Today I got caught up on this. It's new, as I haven't actually done a chart directly from Pandas nor with the dictionay indexing so I figure it will take a while to figure out. I also had a cold today, and lost my voice. (Some of this is due to getting back to teaching, where I am required to speak loudly for significant periods of time.) I am sure tomorrow this chart will make perfect sense. 
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/34_PandasChart_ASEAN.py]
 
@@ -278,7 +278,7 @@ Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymar
 
 Today's Progress**: While I didn't create the chart purely with a dictionary, which is what I originally wanted, I did get exactly what I wanted by typing the data into a spreadsheet and using read_csv. Today I learned to better use iloc[] to grab a whole column of data for use in plots. I learned how to use the Numpy arange() method, using bottom=last to stack bars, and plt.xticks() to specify the name for each value. 
 
-Thoughts: Learning to quickly change gears and work around a problem is a valuable skillset. Since I am not on a clock I try to work through things as much as I can and then learn the workarounds later. Today, however, I really could not seem to get this plot to work using the dictionary. I know now, based on the last 35 days, that working with dictionaries is a weakness. In the future I will need to incorporate dictionaries into my work so that I will get stronger in using them. 
+Thoughts: I am very happy with my work from yesterday and today. I think the chart looks great. Learning to quickly change gears and work around a problem is a valuable skillset. Since I am not on a clock I try to work through things as much as I can and then learn the workarounds later. Today, however, I really could not seem to get this plot to work using the dictionary. I know now, based on the last 35 days, that working with dictionaries is a weakness. In the future I will need to incorporate dictionaries into my work so that I will get stronger in using them. 
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/35_PandasASEANpt2.py]
 
@@ -767,3 +767,23 @@ Today's Progress**: I worked on some CSS, wrapped Days 1-49 in a user-defined wh
 Thoughts: On my second day off from work, I learned a great deal but went backwards on my main project. On the last days of 100 Days of Code I may just refactor some of my data visualizations and console apps to package them in one user-friendly console application in a new Github Repo. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/98_Additions.py]
+
+### R1D99
+
+Today's Progress**:  
+
+Thoughts:  
+
+Link to work:**[]
+
+### R1D100
+
+Today's Progress**:  
+
+Thoughts:  
+
+Link to work:**[]
+
+
+
+Summary: I am finishing up the 100 Days of Code challenge just as the school year here in Thailand is getting into full swing. The kids have just taken mid-terms and I have a project well underway that I plan to integrate (in a simple way) into my teaching for my website design class, which ends the end of this term (in October). I plan to unveil my website to the kids and on Day 1 of Round 2 of 100 Days of Code. For Round 1 I focused on Python, with some small pieces of code in HTML, CSS, CommandShell, Django script, and C#, but all of which were related to the Python projects I am doing. 
