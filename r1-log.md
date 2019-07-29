@@ -777,9 +777,9 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 ### R1D99
 
-Today's Progress**:  
+Today's Progress**: Today I set up an individual repo in Github (not a fork) to house my FirstDays Repo (mentioned below).  
 
-Thoughts: Today was my last day off for my long weekend and the day before the conclusion of 100 Days of Code, so a lot of the housekeeping tasks I had planned to do by Day 100 I am taking care of today.  
+Thoughts: Today was my last day off for my long weekend and the day before the conclusion of 100 Days of Code, so a lot of the housekeeping tasks I had planned to do by Day 100 I am taking care of today. I am watching each of my videos over again and cleaning up the journal entries, as well as preparing a combination console app featuring the first 49 days of the challenge. 
 
 Link to work:**[]
 
