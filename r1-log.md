@@ -777,11 +777,11 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 ### R1D99
 
-Today's Progress**: Today I set up an individual repo in Github (not a fork) to house my FirstDays Repo (mentioned below).  
+Today's Progress**: Today I set up an individual repo in Github (not a fork) to house my FirstDays Repo (mentioned below). I also fixed some HTML code on my page (an extra div tag appeared after I deleted some of the Django injections that were not working). I spent a long time just editing through Python code trying to erase all traces of the mistakes from yesterday and I did get the website back to looking okay but have once again lost the functionality to login users from the frontend. I am happy that I have at least started a couple projects, now in Round 2 I will debut them. 
 
 Thoughts: Today was my last day off for my long weekend and the day before the conclusion of 100 Days of Code, so a lot of the housekeeping tasks I had planned to do by Day 100 I am taking care of today. I am watching each of my videos over again and cleaning up the journal entries, as well as preparing a combination console app featuring the first 49 days of the challenge. 
 
-Link to work:**[]
+Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/99_NewCSS.css]
 
 ### R1D100
 
