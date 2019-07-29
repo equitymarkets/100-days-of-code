@@ -324,14 +324,16 @@ Thoughts: Today concluded my Pandas overview. I had to put my idea of running th
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/40_DataProcessPt3.py]
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ### R1D41
-Today's Progress**: Today I installed Seaborn using the pip install command line function. I explored several functions to set the style of the plot (sns.set_style()) and to set the type of plot (sns.scatterplot(), etc.). While I knew that Seaborn is built on top of MatplotLib, it didn't dawn on me that I would have to use plt.show() to display the Seaborn visualization. 
+Today's Progress**: Today I installed Seaborn using the pip install command line function. I explored several functions to set the style of the plot (sns.set_style()) and to set the type of plot (sns.scatterplot(), etc.). While I knew that Seaborn is built on top of MatplotLib, it didn't dawn on me at first that I would have to use plt.show() to display the Seaborn visualization. 
 
-Thoughts: I am getting back into the rhythm of this challenge. I just finished my first week of classes of teaching at my school and my body is getting back on schedule. I want to take a good dive into Seaborn for the next five days. I really like the capability of this library. 
+Thoughts: I am getting back into the rhythm of this challenge. I just finished my first week of classes of teaching at my school and my body is getting back on schedule. I want to take a good dive into Seaborn for the next five days. I really like the capability of this library. Out of the data visualization libraries that I have used so far, Seaborn seems to be the most straightforward and functional, just based on the fact that I can do so much with it on the first day using it. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/41_SeabornIntro.py]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### R1D42
 
