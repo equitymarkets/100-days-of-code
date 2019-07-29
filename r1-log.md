@@ -241,7 +241,7 @@ Thoughts: I am happy to have made it to Day 30. I worked a long time today on a 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/30_Pandas.py]
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 
 ### R1D31
 
@@ -282,11 +282,13 @@ Thoughts: I am very happy with my work from yesterday and today. I think the cha
 
 Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/35_PandasASEANpt2.py]
 
+
+
 ### R1D36
 
 Today's Progress**: I learned how to make a sine wave using the np.sin() method. I learned how to make gridlines on a graph. I also learned how to make a horizontal axis line using axhline(). Finally, I encountered the ValueError: x and y must have same first dimension... and to remedy it I first just tried switching around values to make it at least run. I did get it running, but it makes no sense. Tomorrow and maybe the next day I will spend making something good out of it. 
 
-Thoughts: I didn't get as much done as I would have liked but I believe that this will be an awesome visualization once I get it to make sense. Although it is only an idea really now, I learned a few things today. 
+Thoughts: I didn't get as much done as I would have liked but I believe that this will be an awesome visualization once I get it to make sense. Although it is only an idea really now, I learned a few things today. Tripping up is definitely the best way to learn coding, and once I get this graph working I will be stronger in coding Python, understanding the Numpy library, and visualizing the science of the Doppler effect. 
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/36_RedShiftpt1.py]
 
@@ -294,32 +296,35 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/equityma
 
 Today's Progress**: The main thing I learned today was a workaround. I didn't plan for the red shift / blue shift graph to be complex, I just wanted to make something that was correct, after yesterday's silly graph that didn't say anything really. When I set the wave on this graph using the sin() function I found that it would always be the same (I could be wrong about that but I think sine should always come out the same, shouldn't it?) so I had to work from another angle. I turned up the x-axis values from 10 to 20 and ended up with what I wanted. The problem was that it said 20 at the bottom which meant that red shift and blue shift were at the same frequency: not true. I used plt.axis('off') to turn off the x axis because I didn't need it to illustrate this concept. I think the plots look much better than yesterday's. 
 
-Thoughts: I realize this isn't anything complex but before moving on (as my focus here is an overview of the entire Python language, not just data visualization) I wanted to just map a simple idea out using a chart, but not data intensive. I like this red shift / blue shift chart and my only regret is that it appears that my video might not want to play on browsers operating on a moderately slow speed internet. My video quality needs to improve. I also don't feel like I covered a lot of information today but I did learn the one function and learned some vocabulary about graphics. 
+Thoughts: I realize this isn't anything complex but before moving on (as my focus here is an overview of the entire Python language, not just data visualization) I wanted to just map a simple idea out using a chart, but nothing too data intensive. I like this red shift / blue shift chart and my only regret is that it appears that my video might not want to play on browsers operating on a moderately slow speed internet. My video quality needs to improve. I also don't feel like I covered a lot of information today but I did learn the plt.axis() function and learned some vocabulary about graphics. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/37_DopplerPt2.py]
 
 ### R1D38
 
-Today's Progress**: Today I familiarized myself with kaggle.com for dataset practice and projects. I found a really annoying error that happens for really no reason at all-the unindent does not match error and to cure it I simply had to repaste the entire function-this cleared it up immediately. I used the .describe() stat function to describe the set I am reading from, but did not get everything I hoped for in that set. 
+Today's Progress**: Today I familiarized myself with kaggle.com for dataset practice and projects. I found a really annoying error that happens for really no reason at all-the unindent does not match error and to cure it I simply had to repaste the entire function-this cleared it up immediately. I have found that in some editors, I can simply just backspace the line onto the line above, then press enter, but for others it does not. Rewriting the line, or function, isn't a terribly back workaround though, since you really only have to cut and paste it to another file and play with it a bit and it will be fixed. I also used the .describe() stat function to describe the set I am reading from, but did not get everything I hoped for in that set. 
 
-Thoughts: I dont feel like I got much done today, but I tackled a pesky error message, learned about a place to get practice data, and learned a new function. Tomorrow I hope to run this data at least through the bubble sort and the merge sort; maybe all five. 
+Thoughts: I dont feel like I got much done today, but I tackled a pesky error message, learned about a place to get practice data, and learned a new function. Tomorrow I hope to run this data at least through the bubble sort and the merge sort; maybe all five. I want to work with kaggle.com in the future as I learn more about data science. 
 
 Link to work**:   [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/38_DataProcessPt1]
 
 ### R1D39
 
-Today's Progress**: I didn't make much progress towards a workable program but I worked through a couple snags, learned what would work and what wouldn't, and still ended up not much closer to what I want here. I did learn some housekeeping, such as how  to display file extensions by default on Windows (or Mac). I learned the Python os.getcwd() function for the current directory and os.listdir() for everything in your working directory, in my case a folder by the name python_work. I learned that a CSV has no data type and that is (I think) why I cannot churn the data into a sort function. I learned the word "delimiter" which means any character or group of characters to specify a boundary between separate regions in a datastream, such as "#" for comments. 
+Today's Progress**: I didn't make much progress towards a workable program but I worked through a couple snags, learned what would work and what wouldn't, and still ended up not much closer to what I want here. I did learn some housekeeping, such as how  to display file extensions by default on Windows (or Mac). I learned the Python os.getcwd() function for the current directory and os.listdir() for everything in your working directory, in my case a folder by the name python_work. I learned that a CSV has no data type and that is (I think) why I cannot churn the data into a sort function. I learned the word "delimiter" which means any character or group of characters to specify a boundary between separate regions in a datastream, such as "#" for comments. The os module is vital to the Python working environment and as I learn more about Python I want to learn more about it. 
 
 Thoughts: I still feel unproductive but all-in-all I did have a productive day at work-even found out that one of my private students got the highest-in-class mark on her test. By the time I got home I was pretty tired and this program still isn't doing what I want but, as usual, by the time I put it away I have learned way more than when things go smooth. When things are rocky, I tend to learn more about why this is, whereas when things are going smooth there is little to be done. I love the challenge. Tomorrow I want to get this working, however. 
+
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/39_DataProcessPt2.py]
 
 ### R1D40
 
-Today's Progress**: Today I learned about the sort_values() function and a few of it's parameters. I planned to get a Pandas overview during the last few days and I feel I have done this. Today I imported a CSV, manipulated the data, and sent the CSV back out four different ways. I learned about the "Permission Error: [Errno 13] Permission Denied:..." Error, which happens when a file already exists. I also learned the term "in-place sorting," which refers to a sort that simply exchanges values within the list and does not use any additional space for sorting, such as with secondary or tertiary arrays. 
+Today's Progress**: Today I learned about the sort_values() function and a few of it's parameters. I planned to get a Pandas overview during the last few days and I feel I have done this. Today I imported a CSV, manipulated the data, and sent the CSV back out four different ways. I learned about the "Permission Error: [ErrNo 13] Permission Denied:..." Error, which happens when a file already exists. I also learned the term "in-place sorting," which refers to a sort that simply exchanges values within the list and does not use any additional space for sorting, such as with secondary or tertiary arrays. 
 
-Thoughts: I had to put my idea of running the data through my five sorts on an indefinite hold until I know more about Python processes. I would like to pursue the idea, and perhaps when I come back to refactor all of the code in a week or so I will consider looking over the sort functions again. 
+Thoughts: Today concluded my Pandas overview. I had to put my idea of running the data through my five sorts on an indefinite hold until I know more about Python processes. I would like to pursue the idea, and perhaps when I come back to refactor all of the code in a week or so I will consider looking over the sort functions again. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/40_DataProcessPt3.py]
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### R1D41
 Today's Progress**: Today I installed Seaborn using the pip install command line function. I explored several functions to set the style of the plot (sns.set_style()) and to set the type of plot (sns.scatterplot(), etc.). While I knew that Seaborn is built on top of MatplotLib, it didn't dawn on me that I would have to use plt.show() to display the Seaborn visualization. 
@@ -772,7 +777,7 @@ Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/9
 
 Today's Progress**:  
 
-Thoughts:  
+Thoughts: Today was my last day off for my long weekend and the day before the conclusion of 100 Days of Code, so a lot of the housekeeping tasks I had planned to do by Day 100 I am taking care of today.  
 
 Link to work:**[]
 
@@ -786,4 +791,6 @@ Link to work:**[]
 
 
 
-Summary: I am finishing up the 100 Days of Code challenge just as the school year here in Thailand is getting into full swing. The kids have just taken mid-terms and I have a project well underway that I plan to integrate (in a simple way) into my teaching for my website design class, which ends the end of this term (in October). I plan to unveil my website to the kids and on Day 1 of Round 2 of 100 Days of Code. For Round 1 I focused on Python, with some small pieces of code in HTML, CSS, CommandShell, Django script, and C#, but all of which were related to the Python projects I am doing. 
+Summary: I am finishing up the 100 Days of Code challenge just as the school year here in Thailand is getting into full swing. The kids have just taken mid-terms and I have a project well underway that I plan to integrate (in a simple way) into my teaching for my website design class, which ends the end of this term (in October). I plan to unveil my website to the kids and on Twitter on Day 1 of my Round 2 of 100 Days of Code. For Round 1 I focused on Python, with some small pieces of code in HTML, CSS, CommandShell, Django script, and C#, but all of which were related to the Python projects I am doing.
+
+During the challenge, I learned and used a diverse set of tools to do a wide variety of things. I used IDLE, Geany, Visual Studio, PowerShell, CMD, and Jupyter Notebook. I solved some basic math riddles, including the Towers of Hanoi and the Monty Hall problem. I worked with many libraries, including Matplotlib, Numpy, Pandas, and Pygal. For the second half I worked with Django, which has been a great challenge to me.   
