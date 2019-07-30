@@ -785,14 +785,16 @@ Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/99
 
 ### R1D100
 
-Today's Progress**:  
+Today's Progress**: I spent more time doing data entry today than probably any other day of this challenge, in putting together all of the code and cleaning a lot of it up. I am so glad to have completed this challenge and I think it has been a great experience. I used ideas that I have had in the past to code a lot of mini-projects and started work on one major one. I learned the inner-workings of the Python programming language, data visualizations, and Django. I even polished some of my HTML, CSS, C#, and Javascript knowledge, and certainly learned a LOT about dependencies and web design. Today I mostly dealt with a few bugs in migrating the Pandas modules from my home machine to something that can be used by anyone (namely, exporting CSV files to a generic directory).  
 
-Thoughts:  
+Thoughts: Thank you Alexander Kalloway for this idea and the organization to make this possible for so many people like myself who really might not know where to begin otherwise. During the time that I was doing this challenge my daughter Evelyn was born and she is my inspiration for improving my coding skills, and hopefully, our lives as a family together. I think of the possibilities of being a Python programmer and I see it as a way to give her a very good life. I have a long way to go-on a scale of 1-10 in Python skills I think I have gone from about a 2 (not knowing Python but having a little knowledge and skills in C++, C#, and HTML) to about a 4. That's good for 100 days, especially having had two colds, working full time, doing freelance and part-time work, doing investment research, and taking care of my newborn daughter (who I consider to be my life's blessing).  I have had many late nights, a few early mornings, some short lunch breaks, and even woken up with ideas in the middle of the night, but now I will rest a bit, and polish up the skill that I need to debut my Django project on Day 1 of Round 2!
 
-Link to work:**[]
+Link to work:**[https://github.com/equitymarkets/100-days-of-code/blob/master/Day_100_InteractiveConsole.py]
 
 
 
 Summary: I am finishing up the 100 Days of Code challenge just as the school year here in Thailand is getting into full swing. The kids have just taken mid-terms and I have a project well underway that I plan to integrate (in a simple way) into my teaching for my website design class, which ends the end of this term (in October). I plan to unveil my website to the kids and on Twitter on Day 1 of my Round 2 of 100 Days of Code. For Round 1 I focused on Python, with some small pieces of code in HTML, CSS, CommandShell, Django script, and C#, but all of which were related to the Python projects I am doing.
 
-During the challenge, I learned and used a diverse set of tools to do a wide variety of things. I used IDLE, Geany, Visual Studio, PowerShell, CMD, and Jupyter Notebook. I solved some basic math riddles, including the Towers of Hanoi and the Monty Hall problem. I worked with many libraries, including Matplotlib, Numpy, Pandas, and Pygal. For the second half I worked with Django, which has been a great challenge to me.   
+During the challenge, I learned and used a diverse set of tools to do a wide variety of things. I used IDLE, Geany, Visual Studio, PowerShell, CMD, and Jupyter Notebook. I solved some basic math riddles, including the Towers of Hanoi and the Monty Hall problem. I worked with many libraries, including Matplotlib, Numpy, Pandas, and Pygal. For the second half I worked with Django, which has been a great challenge to me. 
+
+My goals in Python are: 1)the RiceForest.com website, 2)the Pinehillgalleries ecommerce site, and 3)a profitable trading system developed on QuantConnect. Seeing and reading what all of the developers there are doing in the field of investment research really inspired me to learn Python. 
