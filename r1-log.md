@@ -333,12 +333,12 @@ Thoughts: I am getting back into the rhythm of this challenge. I just finished m
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/master/41_SeabornIntro.py]
 
-++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 ### R1D42
 
-Today's Progress**: Today I combed over some Seaborn built-in datasets. I also looked around in the Python site-packages folder and found where all of the modules are contained. I had been wondering where all of the includes are coming from so now I understand this a little bit better. I learned about unit-testing, the heatmap as a 3-dimensional plot, and about the Index contains duplicate entries error, although I still have not remedied what is causing it. I have work ahead for tomorrow. 
-Thoughts: As always, I learned a lot when I was up against a brick wall. I am still up against the brick wall, but I want to think about this as I sleep. Often, I can do better if I return to something in the morning. 
+Today's Progress**: Today I combed over some Seaborn built-in datasets. I also looked around in the Python site-packages folder and found where all of the modules are contained. I had been wondering where all of the includes are coming from so now I understand this a little bit better. Understanding this inheritance feature in Python is definitely going to be a big breakthrough-and I am thankful now that I at least understand it. I learned about unit-testing, the heatmap as a 3-dimensional plot, and about the Index contains duplicate entries error, although I still have not remedied what is causing it. I have work ahead for tomorrow. 
+
+Thoughts: As always, I learned a lot when I was up against a brick wall. I am still up against the brick wall, but I want to think about this as I sleep. Often, I can do better if I return to something in the morning. Understanding the pivot as it relates to the graph, I think, will be the key to understanding this. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/42_SeabornHeatmapPt1]
 
@@ -346,18 +346,21 @@ Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equityma
 
 Today's Progress**: I got the heatmap to work today. In the end, the problem was just the order that I was placing the arguments into the .pivot() function. By reading the standard 'Anscombe' dataset in the order ('dataset', 'y', 'x') I was able to get a logical heatmap plotted. The other error that I overcame was after I attempted to plot a clustermap. Originally (since my objective is to learn Python code and get acquainted with a number of topics-zooming in later) I tried to plot the clustermap to try it out without really seeing or knowing what a clustermap actually was-I was trying to put a string value into the map, which is not accepted. Eventually I just popped the string value out and the clustermap worked fine. 
 
-Thoughts: I think it is good that Seaborn plots do not just accept bad parameters and plot what would really equate to nonsense. As a learner who is not on any hard deadline, it is tempting to get frustrated when something doesn't work but I know in the future the checks and balances that are built-in will be very beneficial to my work. I want to spend a few more of my 100 Days learning more about Seaborn basics and return to this library in the near future. At or around Day 50 I want to get acquainted with Django for some real world projects that I would like to finish, or firmly move towards a finish, by the end of the 100 Days. 
+Thoughts: I think it is good that Seaborn plots do not just accept bad parameters and plot what would really equate to nonsense. As a learner who is not on any hard deadline, it is tempting to get frustrated when something doesn't work but I know in the future the checks and balances that are built-in will be very beneficial to my work. Since I have time to learn, taking a long time to get to an end result doesn't really hurt me (unless it is a total dead end) because that is the way to learn. The secret to learning to code Python certainly seems like gaining the ability to sense what erros are and what they mean for the program as a whole. I want to spend a few more of my 100 Days learning more about Seaborn basics and return to this library in the near future. At or around Day 50 I want to get acquainted with Django for some real world projects that I would like to finish, or firmly move towards a finish, by the end of the 100 Days. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/43_SeabornHeatmap.py]
 
 ### R1D44
 
-Today's Progress**: Today I moved on learning the Seaborn library with the jointplot. I looked at an available example using variables defined within the actual program but I decided to work further with the 'flights' example dataset, because now I am really starting to grasp how to manipulate this data-a couple days ago I had no idea. I learned about bivariate data, some numpy functions, and the sns.jointplot() with many of the different alternatives (seems that there are many). 
+Today's Progress**: Today I moved on learning more of the Seaborn library with the jointplot. I looked at an available example using variables defined within the actual program but I decided to work further with the 'flights' example dataset, because now I am really starting to grasp how to manipulate this data-a couple days ago I had no idea. I learned about bivariate data, some numpy functions, and the sns.jointplot() with many of the different alternatives (seems that there are many). 
 
 Thoughts: While I don't know if data visualization will be my main focus of Python in the future, it is important to know, and I will be glad to have spent 20+ days on the subject material. As for today, I am putting a star beside the jointplot in my notes because it is something that I definitely want to explore further. 
 
 Link to work**: [https://github.com/equitymarkets/100-days-of-code/blob/equitymarkets-patch-1/44_SeabornJointPlot.py]
 
+
+++++++++++++++++++++++++++++
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 ### R1D45
 Today's Progress**: Today I learned the definition of Gaussian distribution: simple really, just a Normal distribution. I did this while I was learning the distplot() function and its application. It is funny how you hear things and never really solidify  what is being said unless you look it up or am working with it. I also learned the boxplot() function. I couldn't get this working the other night but now I have built the knowledge and confidence to work with, I believe, and of the Seaborn plots. 
 
