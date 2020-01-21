@@ -12,11 +12,11 @@ Thoughts: During a trip to my parent's house over the holidays, I was cleaning o
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/001R2_BASIC_VIC20]
 
 ### R2D2
-Today's Progress**: 
+Today's Progress**: Today I used the NEXT command to move on to the next line in the program and the POKE command to point to a place in memory. I will undoubtedly learn more about these commands in the future, as I have just started Chapter 3 in the VIC20 manual. 
 
-Thoughts: 
+Thoughts: I forgot how much fun the BASIC computer language was a long time ago. I really feel blessed that I found this manual. Sometimes I learn by really stepping back and exploring things that are very basic. Today was a lot of fun. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/002R2_BASIC_VIC20COLORS]
 ### R2D3
 Today's Progress**: 
 
