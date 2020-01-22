@@ -18,11 +18,11 @@ Thoughts: I forgot how much fun the BASIC computer language was a long time ago.
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/002R2_BASIC_VIC20COLORS]
 ### R2D3
-Today's Progress**: 
+Today's Progress**: I learned about the existance of the PEEK command, although I wasn't able to get it to work. I learned more about the old memory location address method that was used on Legacy machines. I am glad to be exploring BASIC this week. 
 
-Thoughts: 
+Thoughts: As usual, I am learning a lot given the simple nature of this, especially about memory locations and the theory behind them. This is going to be a week well spent. 
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/003R2_BASIC_VIC20]
 ### R2D4
 Today's Progress**: 
 
