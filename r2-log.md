@@ -24,11 +24,11 @@ Thoughts: As usual, I am learning a lot given the simple nature of this, especia
 
 Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/003R2_BASIC_VIC20]
 ### R2D4
-Today's Progress**: 
+Today's Progress**: Today I learned about accessing memory locations using the screen character codes and color codes memory map, while incorporating background sounds. I made a simple up-pointing arrow, changed the background color of the screen, and put it to a random beeping soundtrack. 
 
-Thoughts: 
+Thoughts: I really think if I didn't have to work tomorrow I could stay up all night going through this BASIC manual and coming up with different programs and tweaking them. I see what captivated people in the 80's to become developers-there is so much you can do with this programming language.
 
-Link to work:** []
+Link to work:** [https://github.com/equitymarkets/100-days-of-code/blob/master/004R2_BASIC_VIC20COLORSANDSOUNDS]
 ### R2D5
 Today's Progress**: 
 
