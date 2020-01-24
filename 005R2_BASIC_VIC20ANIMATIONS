@@ -1,1 +1,7 @@
-
+10 PRINT"  ___*___  "
+20 FOR T = 1 TO 200: NEXT T
+30 PRINT" ___*___  "
+40 FOR T = 1 TO 200: NEXT T
+50 PRINT"     "
+60 FOR T = 1 TO 200: NEXT T
+70 GOTO 10
