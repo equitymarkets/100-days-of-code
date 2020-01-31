@@ -1,0 +1,6 @@
+A$="short" THEN "INTEGER VARIABLE"
+A$="float" THEN "NORMAL NUMERIC VARIABLE"
+A$="string" THEN "STRING VARIABLE"
+A$="&&" THEN "AND"
+A$="||" THEN "OR"
+A$="!" THEN "NOT"
