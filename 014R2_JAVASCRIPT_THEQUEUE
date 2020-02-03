@@ -1,0 +1,19 @@
+//The problem "Stand-In-Line" gave me a challenge. Here is my solution, using push() and shift()
+
+
+function nextInLine(arr, item) {
+  // Your code here
+  var cut 
+  arr.push(item);
+  cut = arr.shift();
+  
+  return cut;  // Change this line
+}
+
+// Test Setup
+var testArr = [1,2,3,4,5];
+
+// Display Code
+console.log("Before: " + JSON.stringify(testArr));
+console.log(nextInLine(testArr, 6)); // Modify this line to test
+console.log("After: " + JSON.stringify(testArr));
