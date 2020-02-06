@@ -1,0 +1,27 @@
+// Setup
+function phoneticLookup(val) {
+  var result = "";
+
+  // Only change code below this line
+  var lookup = {
+    "alpha": result = "Adams",
+      
+    "bravo": result = "Boston",
+      
+    "charlie": result = "Chicago",
+      
+    "delta": result = "Denver",
+      
+    "echo": result = "Easy",
+      
+    "foxtrot": result = "Frank",
+    "": result = undefined
+    //default: result = "undefined"
+  };
+  return lookup[val];
+  // Only change code above this line
+  return result;
+}
+
+// Change this value to test
+phoneticLookup("charlie");
