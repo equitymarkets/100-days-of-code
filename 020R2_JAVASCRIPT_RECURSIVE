@@ -1,0 +1,14 @@
+function rangeOfNumbers(startNum, endNum) {
+  if (endNum - startNum < 0) {
+    return [];
+  }
+  else {
+    const rangeArr = rangeOfNumbers(startNum, endNum - 1);
+    rangeArr.push(endNum);
+    return rangeArr;
+
+  }
+};
+
+
+rangeOfNumbers(2, 8)
