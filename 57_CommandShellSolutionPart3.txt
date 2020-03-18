@@ -1,4 +1,4 @@
-mkdir rice_forest
+django-admin startproject rice_forest
 cd rice_forest
 virtualenv project
 project/Scripts/activate
